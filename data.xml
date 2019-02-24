@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20190225060253</lastBuildDate> 
+	<total>6</total>
+	<start>1</start>
+	<num>10</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>66371</target_code>
+		<word>사과</word>
+		<sup_no>1</sup_no>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=66371</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>모양이 둥글고 붉으며 새콤하고 단맛이 나는 과일.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>apple</trans_word>
+				<trans_dfn>A round-shaped sweet and sour fruit with red skin. </trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>15830</target_code>
+		<word>사과</word>
+		<sup_no>2</sup_no>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15830</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>자신의 잘못을 인정하며 용서해 달라고 빎.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>apology</trans_word>
+				<trans_dfn>An act of admitting one's own mistakes and begging for forgiveness. </trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>62023</target_code>
+		<word>사과나무</word>
+		<sup_no>0</sup_no>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62023</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>사과가 열리는 나무.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>apple tree</trans_word>
+				<trans_dfn>A tree bearing apples.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>62167</target_code>
+		<word>사과드리다</word>
+		<sup_no>0</sup_no>
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62167</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>(높이는 말로) 사과하다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>offer an apology	</trans_word>
+				<trans_dfn>(polite form) To apologize.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>62025</target_code>
+		<word>사과문</word>
+		<sup_no>0</sup_no>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62025</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>자신의 잘못을 인정하며 용서해 달라고 비는 내용을 적은 글.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>written apology</trans_word>
+				<trans_dfn>A message written to show that a person admits his/her own fault and to beg for forgiveness. </trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>62377</target_code>
+		<word>사과하다</word>
+		<sup_no>0</sup_no>
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62377</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>자신의 잘못을 인정하며 용서해 달라고 빌다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>apologize</trans_word>
+				<trans_dfn>To admit one's own mistakes and beg for forgiveness.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	
+	
+</channel>
+
+
