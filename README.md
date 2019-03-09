@@ -5,4 +5,12 @@ This program is based on  National Institute of Korean Language Basic/Learner's 
 
 ### Requirements
 
-### Run Dependencies
+### Run Dependencies/Usage
+
+### Usage Example
+
+### License
+Apache License
+
+### Developer
+Julia Pochynok 
