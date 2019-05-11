@@ -1,0 +1,50 @@
+1,사과,영어,apple,A round-shaped sweet and sour fruit with red skin.
+2,오다,영어,come,For something to move from another place to here.
+3,마시다,영어,drink,To make liquid such as water, etc., pass down one's throat.
+4,먹다,영어,eat; have; consume; take,To put food into one's mouth and take it in one's stomach.
+5,주다,영어,give,To give an item to someone else so he/she can have or use it.
+6,가다,영어,go; travel,To move from one place to another place.
+7,듣다,영어,hear,To sense a sound with ears.
+8,배우다,영어,learn,To obtain new knowledge.
+9,만들다,영어,make; create; produce; manufacture,To create something that did not exist, using one's power or skill.
+10,앉다,영어,sit; be seated,To place one's weight on the bottocks and put his/her body on an object or on the floor with his/her upper body in an upright position.
+11,자다,영어,sleep,To be in the state of taking a rest for a period of time with one's eyes closed and mental activities suspended.
+12,씻다,영어,wash,To clean something by removing dirt or grime.
+13,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+14,울다,영어,cry,To shed tears out of unbearable joy, pain, or delight, or to make sounds while shedding tears.
+15,웃다,영어,smile,To smile big or make a sound when one is happy or satisfied.
+16,보다,영어,see; look at; notice,To perceive with eyes the existence or appearance of an object.
+17,일어나다,영어,stand up; rise; sit up,To sit after lying down or stand after sitting.
+18,걷다,영어,walk,To lift one's feet, one foot at a time, from the ground and change their positions.
+19,춤추다,영어,dance,To move one's body to a piece of music or a regular beat.
+20,만나다,영어,meet; join,For a line, road, river, etc. to adjoin or be connected with each other.
+21,공부하다,영어,study,To gain knowledge by learning studies or techniques.
+22,운전하다,영어,drive; operate,To move and handle a machine or car.
+23,사다,영어,buy; purchase; get,To get ownership of an item, right, etc., by paying for it.
+24,읽다,영어,read; read out,To see written words or letters, and utter them as they are pronounced.
+25,주문하다,영어,order,To direct a manufacturer or seller to make or deliver an item by specifying the type, quantity, shape, size, etc.
+26,입다,영어,wear; be dressed; put on,To hang or drape clothes on or around one's body.
+27,찍다,영어,stamp,To make an impression by pressing on a flat surface.
+28,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+29,신다,영어,put on; wear,To put one's feet into a pair of shoes, socks, etc., and cover the whole or a part of the feet with them.
+30,빌리다,영어,borrow; rent,To borrow goods, money, etc., from someone for a certain period of time on the condition of returning them or paying a price later.
+31,전화하다,영어,call; phone,To converse between people via telephone.
+32,말하다,영어,say; tell; speak; talk,To verbally present a fact or one's thoughts or feelings.
+33,가르치다,영어,teach; instruct,To explain knowledge or skills to help someone understand it.
+34,기다리다,영어,wait,To spend time until a person or time comes or a certain event is realized.
+35,걸다,영어,hang,To hang a certain object somewhere so as to prevent it from falling.
+36,청소하다,영어,clean,To clean something dirty and messy.
+37,타다,영어,burn,For a fire to be ignited or spread, due to embers or heat.
+38,나가다,영어,go out; leave,To move from the inside to the outside of an area or space.
+39,들어오다,영어,come in; get in; enter,To move inside from outside within a certain range.
+40,물어보다,영어,ask; inquire; interrogate,To ask a question to find out something.
+41,필요하다,영어,necessary; needed,Being necessary.
+42,도와주다,영어,help; assist,To help someone with something, or give support.
+43,열다,영어,open; unlock,To open or unlock something closed or locked.
+44,닫다,영어,shut,To close something that is opened, such as the door, lid, drawer, etc., by moving it back to its original position.
+45,일하다,영어,work; labor,To use one's body or mind to achieve something.
+46,쉬다,영어,rest; repose; take a rest,To relax oneself to relieve one's fatigue.
+47,운동하다,영어,exercise; take exercise,To move one's body in order to train it or improve one's health.
+48,알다,영어,know; understand,To have information or knowledge about an object or situation through education, experience, thoughts, etc.
+49,모르다,영어,not know,To have no knowledge or understanding of a person, object or fact.
+50,사랑하다,영어,love,To be sexually attracted to someone and like him/her very much.
