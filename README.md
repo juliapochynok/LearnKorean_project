@@ -37,15 +37,15 @@ If the client chooses option 1 - learn new word, new word and information about 
 Step 5.
 If the client chooses option 2 -test yourself, the test will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
 
-If the client answers right TRUE will be displayed
+If the client answers right, TRUE will be displayed
 
-If the client answers wrong FALSE will be displayed.
+If the client answers wrong, FALSE will be displayed.
 
 Step 6.
 If the client chooses option 3 - see wordlist, all words learned by this user will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
 
 Step 7.
-If client wants to log Out of the ptrongram he/she should press the “Log Out” button.
+If client wants to log Out of the ptrongram, he/she should press the “Log Out” button.
 
 
 ### Unittests
