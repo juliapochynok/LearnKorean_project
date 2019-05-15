@@ -21,30 +21,46 @@ And also a microframework flask is used to create a working interface.
 
 ### Usage Example (images will be added soon)
 Step 1. 
+
 User needs to enter his/her name without white spaces.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor11.png?raw=true)
 
 If the user enters an appropriate name “Invalid input” will be displayed.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor12.png?raw=true)
 
 Step 2.
+
 If it is client’s first time using this program, a new account will be made.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor2.png?raw=true)
 
 Step 3.
+
 Here is the main menu. The client has 4 different options, he/she can experience.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor3.png?raw=true)
 
 Step 4.
+
 If the client chooses option 1 - learn new word, new word and information about it will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor4.png?raw=true)
 
 Step 5.
-If the client chooses option 2 -test yourself, the test will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
 
-If the client answers right, TRUE will be displayed
+If the client chooses option 2 -test yourself, the test will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/Screenshot%20from%202019-05-15%2020-33-23.png?raw=true)
+
+If the client answers right, TRUE will be displayed.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor13.png?raw=true)
 
 If the client answers wrong, FALSE will be displayed.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor8.png?raw=true)
 
 Step 6.
+
 If the client chooses option 3 - see wordlist, all words learned by this user will be displayed on the screen. To return to the main menu user should press the “Go Back” button.
+![](https://github.com/juliapochynok/LearnKorean_project/blob/master/images/kor9.png?raw=true)
 
 Step 7.
+
 If client wants to log Out of the ptrongram, he/she should press the “Log Out” button.
 
 
