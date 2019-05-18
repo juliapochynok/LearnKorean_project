@@ -1,0 +1,359 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Welcome to LearnKorean’s documentation! &#8212; LearnKorean 1.0.0 documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="welcome-to-learnkorean-s-documentation">
+<h1>Welcome to LearnKorean’s documentation!<a class="headerlink" href="#welcome-to-learnkorean-s-documentation" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+</div>
+</div>
+<div class="section" id="classes-module-functions">
+<h1>classes module functions<a class="headerlink" href="#classes-module-functions" title="Permalink to this headline">¶</a></h1>
+<span class="target" id="module-scripts.classes"></span><dl class="class">
+<dt id="scripts.classes.User">
+<em class="property">class </em><code class="descclassname">scripts.classes.</code><code class="descname">User</code><span class="sig-paren">(</span><em>fl=None</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#User"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.User" title="Permalink to this definition">¶</a></dt>
+<dd><p>Class representation of WordController</p>
+<dl class="method">
+<dt id="scripts.classes.User.learn_new_word">
+<code class="descname">learn_new_word</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#User.learn_new_word"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.User.learn_new_word" title="Permalink to this definition">¶</a></dt>
+<dd><p>Writes information about one new word to user file.
+Returns string representation of this information.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="scripts.classes.User.see_word_list">
+<code class="descname">see_word_list</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#User.see_word_list"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.User.see_word_list" title="Permalink to this definition">¶</a></dt>
+<dd><p>Reads all information from file and 
+returns string representation of it</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="scripts.classes.User.set_file">
+<code class="descname">set_file</code><span class="sig-paren">(</span><em>fl</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#User.set_file"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.User.set_file" title="Permalink to this definition">¶</a></dt>
+<dd><p>Sets users file</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>fl</strong> (<em>str</em>) – user txt file</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="method">
+<dt id="scripts.classes.User.test_yourself">
+<code class="descname">test_yourself</code><span class="sig-paren">(</span><em>number</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#User.test_yourself"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.User.test_yourself" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns tuple of korean word, translation of it and list
+of false translations</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>number</strong> (<em>int</em>) – number of answer generation</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="class">
+<dt id="scripts.classes.WordController">
+<em class="property">class </em><code class="descclassname">scripts.classes.</code><code class="descname">WordController</code><span class="sig-paren">(</span><em>fl</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#WordController"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.WordController" title="Permalink to this definition">¶</a></dt>
+<dd><p>Class representation of WordController</p>
+<dl class="method">
+<dt id="scripts.classes.WordController.read_from_file">
+<code class="descname">read_from_file</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#WordController.read_from_file"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.WordController.read_from_file" title="Permalink to this definition">¶</a></dt>
+<dd><p>Reads information from file.
+Returns tuple of two lists: words with translation and definition,
+korean words.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="scripts.classes.WordController.word_string">
+<code class="descname">word_string</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#WordController.word_string"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.WordController.word_string" title="Permalink to this definition">¶</a></dt>
+<dd><p>Reads all information from file and 
+returns string representation of it</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="scripts.classes.WordController.write_to_file">
+<code class="descname">write_to_file</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/scripts/classes.html#WordController.write_to_file"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#scripts.classes.WordController.write_to_file" title="Permalink to this definition">¶</a></dt>
+<dd><p>Writes information about new word to the file.
+Returns string representation of this information.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+<div class="section" id="array-module-functions">
+<h1>array module functions<a class="headerlink" href="#array-module-functions" title="Permalink to this headline">¶</a></h1>
+<span class="target" id="module-arrays"></span><dl class="class">
+<dt id="arrays.DynamicArray">
+<em class="property">class </em><code class="descclassname">arrays.</code><code class="descname">DynamicArray</code><a class="reference internal" href="_modules/arrays.html#DynamicArray"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#arrays.DynamicArray" title="Permalink to this definition">¶</a></dt>
+<dd><p>A dynamic array class akin to a simplified Python list.</p>
+<dl class="method">
+<dt id="arrays.DynamicArray.append">
+<code class="descname">append</code><span class="sig-paren">(</span><em>obj</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/arrays.html#DynamicArray.append"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#arrays.DynamicArray.append" title="Permalink to this definition">¶</a></dt>
+<dd><p>Add object to end of the array.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>obj</strong> – the value of element.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="method">
+<dt id="arrays.DynamicArray.index">
+<code class="descname">index</code><span class="sig-paren">(</span><em>value</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/arrays.html#DynamicArray.index"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#arrays.DynamicArray.index" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns index of the value if value is in DynamicArray.</p>
+<p>param value: the value which index needs to be found.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="arrays.DynamicArray.remove">
+<code class="descname">remove</code><span class="sig-paren">(</span><em>value</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/arrays.html#DynamicArray.remove"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#arrays.DynamicArray.remove" title="Permalink to this definition">¶</a></dt>
+<dd><p>Remove first occurrence of value( or  raise ValueError).</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>value</strong> – the value that needs to be removed.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+<div class="section" id="module-main">
+<span id="main-module-functions"></span><h1>main module functions<a class="headerlink" href="#module-main" title="Permalink to this headline">¶</a></h1>
+<dl class="function">
+<dt id="main.make_userfile">
+<code class="descclassname">main.</code><code class="descname">make_userfile</code><span class="sig-paren">(</span><em>name</em>, <em>time</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/main.html#make_userfile"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#main.make_userfile" title="Permalink to this definition">¶</a></dt>
+<dd><p>Creates user file with his/her name.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>name</strong> (<em>str</em>) – user name that will be transformed to file name.</li>
+<li><strong>time</strong> (<em>str</em>) – str that is “yes” is it’s user’s first time</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>in the program.</p>
+</dd></dl>
+
+</div>
+<div class="section" id="flask-main-module-functions">
+<h1>flask_main module functions<a class="headerlink" href="#flask-main-module-functions" title="Permalink to this headline">¶</a></h1>
+<span class="target" id="module-flask_main"></span><dl class="function">
+<dt id="flask_main.back_to_options">
+<code class="descclassname">flask_main.</code><code class="descname">back_to_options</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#back_to_options"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.back_to_options" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns options-menu page</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.check_test">
+<code class="descclassname">flask_main.</code><code class="descname">check_test</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#check_test"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.check_test" title="Permalink to this definition">¶</a></dt>
+<dd><p>Check test and returns True of False page depending on user answer</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.learn">
+<code class="descclassname">flask_main.</code><code class="descname">learn</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#learn"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.learn" title="Permalink to this definition">¶</a></dt>
+<dd><p>Return page for learning new word</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.log_in">
+<code class="descclassname">flask_main.</code><code class="descname">log_in</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#log_in"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.log_in" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns page that asks if it’s your first time 
+using this program if you enter right account name
+if you enter wrong account name - returns start page</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.log_in2">
+<code class="descclassname">flask_main.</code><code class="descname">log_in2</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#log_in2"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.log_in2" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns page with options - menu page</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.log_out">
+<code class="descclassname">flask_main.</code><code class="descname">log_out</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#log_out"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.log_out" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns start page</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.my_form">
+<code class="descclassname">flask_main.</code><code class="descname">my_form</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#my_form"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.my_form" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns start page.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.test">
+<code class="descclassname">flask_main.</code><code class="descname">test</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#test"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.test" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns test page</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="flask_main.wordlist">
+<code class="descclassname">flask_main.</code><code class="descname">wordlist</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/flask_main.html#wordlist"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#flask_main.wordlist" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns page with s wordlist</p>
+</dd></dl>
+
+</div>
+<div class="section" id="get-xml-module-functions">
+<h1>get_xml module functions<a class="headerlink" href="#get-xml-module-functions" title="Permalink to this headline">¶</a></h1>
+<span class="target" id="module-get_xml"></span><dl class="function">
+<dt id="get_xml.make_wordinfo_file">
+<code class="descclassname">get_xml.</code><code class="descname">make_wordinfo_file</code><span class="sig-paren">(</span><em>needed_word</em>, <em>fle</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/get_xml.html#make_wordinfo_file"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#get_xml.make_wordinfo_file" title="Permalink to this definition">¶</a></dt>
+<dd><p>Makes a API requests and writes given information to xml file</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<li><strong>needed_word</strong> (<em>str</em>) – word which translation is needed to be found.</li>
+<li><strong>fle</strong> (<em>str</em>) – xml file that holds information.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</div>
+<div class="section" id="make-main-wordlist-module-functions">
+<h1>make_main_wordlist module functions<a class="headerlink" href="#make-main-wordlist-module-functions" title="Permalink to this headline">¶</a></h1>
+<span class="target" id="module-make_main_wordlist"></span><dl class="function">
+<dt id="make_main_wordlist.form_words_dict">
+<code class="descclassname">make_main_wordlist.</code><code class="descname">form_words_dict</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/make_main_wordlist.html#form_words_dict"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#make_main_wordlist.form_words_dict" title="Permalink to this definition">¶</a></dt>
+<dd><p>From word dictionary.
+Returns dictionary of korean words from the file.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="make_main_wordlist.get_translation">
+<code class="descclassname">make_main_wordlist.</code><code class="descname">get_translation</code><span class="sig-paren">(</span><em>fle</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/make_main_wordlist.html#get_translation"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#make_main_wordlist.get_translation" title="Permalink to this definition">¶</a></dt>
+<dd><p>Gets word translation from the xml file.
+Returns it.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>fle</strong> (<em>str</em>) – xml file with data about translations.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+<dl class="function">
+<dt id="make_main_wordlist.get_words_to_learn">
+<code class="descclassname">make_main_wordlist.</code><code class="descname">get_words_to_learn</code><span class="sig-paren">(</span><em>file</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/make_main_wordlist.html#get_words_to_learn"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#make_main_wordlist.get_words_to_learn" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns a list of words to learn.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><strong>fle</strong> (<em>str</em>) – txt file to hpld data about words.</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">LearnKorean</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2019, Julia Pochynok.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.8.5</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.8</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

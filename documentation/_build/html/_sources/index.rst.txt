@@ -1,0 +1,42 @@
+.. LearnKorean documentation master file, created by
+   sphinx-quickstart on Sat May 18 15:41:26 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to LearnKorean's documentation!
+=======================================
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Contents:
+
+classes module functions
+===================
+.. automodule:: scripts.classes
+   :members:
+
+array module functions
+=================
+.. automodule:: arrays
+   :members:
+
+main module functions
+=====================
+.. automodule:: main
+   :members:
+
+flask_main module functions
+=====================
+.. automodule:: flask_main
+   :members:
+
+get_xml module functions
+=====================
+.. automodule:: get_xml
+   :members:
+
+make_main_wordlist module functions
+=====================
+.. automodule:: make_main_wordlist
+   :members:
+

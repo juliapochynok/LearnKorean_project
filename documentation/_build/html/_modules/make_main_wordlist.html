@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>make_main_wordlist &#8212; LearnKorean 1.0.0 documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <h1>Source code for make_main_wordlist</h1><div class="highlight"><pre>
+<span></span><span class="kn">from</span> <span class="nn">get_xml</span> <span class="k">import</span> <span class="n">make_wordinfo_file</span>
+
+<div class="viewcode-block" id="get_words_to_learn"><a class="viewcode-back" href="../index.html#make_main_wordlist.get_words_to_learn">[docs]</a><span class="k">def</span> <span class="nf">get_words_to_learn</span><span class="p">(</span><span class="n">file</span><span class="p">):</span>
+    <span class="sd">&#39;&#39;&#39;</span>
+<span class="sd">    Returns a list of words to learn.</span>
+
+<span class="sd">    :type fle: str</span>
+<span class="sd">    :param fle: txt file to hpld data about words.</span>
+<span class="sd">    &#39;&#39;&#39;</span>
+    <span class="n">fl</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+    <span class="n">words</span> <span class="o">=</span> <span class="n">fl</span><span class="o">.</span><span class="n">readlines</span><span class="p">()</span>
+    <span class="n">fl</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+    <span class="k">for</span> <span class="n">word</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">words</span><span class="p">)):</span>
+        <span class="n">words</span><span class="p">[</span><span class="n">word</span><span class="p">]</span> <span class="o">=</span> <span class="n">words</span><span class="p">[</span><span class="n">word</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">words</span></div>
+
+<div class="viewcode-block" id="get_translation"><a class="viewcode-back" href="../index.html#make_main_wordlist.get_translation">[docs]</a><span class="k">def</span> <span class="nf">get_translation</span><span class="p">(</span><span class="n">fle</span><span class="p">):</span>
+    <span class="sd">&#39;&#39;&#39;</span>
+<span class="sd">    Gets word translation from the xml file.</span>
+<span class="sd">    Returns it.</span>
+
+<span class="sd">    :type fle: str</span>
+<span class="sd">    :param fle: xml file with data about translations.</span>
+<span class="sd">    &#39;&#39;&#39;</span>
+    <span class="n">fl</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">fle</span><span class="p">)</span>
+    <span class="n">tx</span> <span class="o">=</span> <span class="n">fl</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="n">xmlData</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">tx</span><span class="p">)</span>
+    <span class="n">fl</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+
+    <span class="n">translation</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="kn">import</span> <span class="nn">xml.etree.ElementTree</span> <span class="k">as</span> <span class="nn">ET</span>
+    <span class="n">xml</span> <span class="o">=</span> <span class="n">ET</span><span class="o">.</span><span class="n">fromstring</span><span class="p">(</span><span class="n">xmlData</span><span class="p">)</span>
+
+    <span class="k">for</span> <span class="n">table</span> <span class="ow">in</span> <span class="n">xml</span><span class="o">.</span><span class="n">getiterator</span><span class="p">(</span><span class="s1">&#39;channel&#39;</span><span class="p">):</span>
+        <span class="k">for</span> <span class="n">child</span> <span class="ow">in</span> <span class="n">table</span><span class="p">[</span><span class="mi">7</span><span class="p">][</span><span class="mi">5</span><span class="p">][</span><span class="mi">2</span><span class="p">]:</span>
+            <span class="n">translation</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">child</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">strip</span><span class="p">())</span>
+    <span class="k">return</span> <span class="n">translation</span></div>
+
+
+<div class="viewcode-block" id="form_words_dict"><a class="viewcode-back" href="../index.html#make_main_wordlist.form_words_dict">[docs]</a><span class="k">def</span> <span class="nf">form_words_dict</span><span class="p">():</span>
+    <span class="sd">&#39;&#39;&#39;</span>
+<span class="sd">    From word dictionary.</span>
+<span class="sd">    Returns dictionary of korean words from the file.</span>
+<span class="sd">    &#39;&#39;&#39;</span>
+    <span class="n">translated_words</span> <span class="o">=</span> <span class="p">{}</span>
+    <span class="n">n</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">fl</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;translations.txt&#39;</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span>
+    <span class="n">korean_words</span> <span class="o">=</span> <span class="n">get_words_to_learn</span><span class="p">(</span><span class="s1">&#39;words.txt&#39;</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">every</span> <span class="ow">in</span> <span class="n">korean_words</span><span class="p">:</span>
+        <span class="n">make_wordinfo_file</span><span class="p">(</span><span class="n">every</span><span class="p">,</span> <span class="s1">&#39;data.xml&#39;</span><span class="p">)</span>
+        <span class="n">translation</span> <span class="o">=</span> <span class="n">get_translation</span><span class="p">(</span><span class="s1">&#39;data.xml&#39;</span><span class="p">)</span>
+        <span class="n">translated_words</span><span class="p">[</span><span class="n">every</span><span class="p">]</span> <span class="o">=</span> <span class="n">translation</span>
+        <span class="n">n</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="n">fl</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">n</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;,&quot;</span> <span class="o">+</span> <span class="n">every</span> <span class="o">+</span> <span class="s2">&quot;,&quot;</span> <span class="o">+</span> <span class="n">translation</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="s2">&quot;,&quot;</span> \
+            <span class="o">+</span> <span class="n">translation</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="s2">&quot;,&quot;</span> <span class="o">+</span> <span class="n">translation</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">+</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="n">fl</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+    <span class="k">return</span> <span class="n">translated_words</span></div>
+
+
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">form_words_dict</span><span class="p">())</span>
+    
+</pre></div>
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">LearnKorean</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  <li><a href="index.html">Module code</a><ul>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2019, Julia Pochynok.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.8.5</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.8</a>
+      
+    </div>
+
+    
+
+    
+  </body>
+</html>
