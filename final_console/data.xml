@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<error>
+	<error_code>100</error_code>
+	<message>Incorrect query request </message>
+</error>
+

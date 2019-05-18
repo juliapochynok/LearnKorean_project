@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        <style>
+                div {
+                    text-align: center;
+                    background-color: rgb(101, 167, 101);
+                    width: 800px;
+                    border: 30px solid rgb(104, 40, 40);
+                    padding: 150px;
+                    margin: auto;
+                    }
+                body {background-color: rgb(101, 167, 101);}
+
+                h3  {color: rgb(17, 43, 2);
+                    font-family: Courier;
+                    font-size: 300%;
+                    text-align: center;
+                    text-shadow: 3px 2px rgb(104, 40, 40);}
+
+                input {
+                    font-family: Courier;
+                    font-size: 150%;
+                    display: block;
+                    margin: 0 auto;
+                    text-align: center;
+                    width: 50%;
+                    padding: 16px 20px;
+                    text-align: center;
+                    text-align: center;
+                    color: rgb(17, 43, 2);
+                    }
+
+                input[type=submit] {
+                    font-family: Courier;
+                    font-size: 200%;
+                    display: block;
+                    margin: 0 auto;
+                    text-align: center;
+                    width: 20%;
+                    padding: 16px 20px;
+                    text-align: center;
+                    color: rgb(104, 40, 40);
+                    size: 100%;
+                    border:darkred ;
+                    border-radius: 10px;
+                    cursor: pointer;
+                    }
+        </style>
+    </head>
+
+    <body>
+        <div>
+            <h3>Is it your first time using this program: </h3>
+            <form method="POST" action="{{url_for('log_in2')}}" >
+                    <input type=”text” name="usage_time"/>
+                    <p><input type = "submit" value = "submit" /></p>
+            </form>
+        </div>
+    </body>
+</html>

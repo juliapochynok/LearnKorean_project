@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        <style>
+                div {
+                    text-align: center;
+                    background-color: rgb(101, 167, 101);
+                    width: 800px;
+                    border: 30px solid rgb(104, 40, 40);
+                    padding: 150px;
+                    margin: auto;
+                    }
+                body {background-color: rgb(101, 167, 101);}
+
+                h1  {color: rgb(17, 43, 2);
+                    font-family: Courier;
+                    font-size: 300%;
+                    text-align: center;
+                    text-shadow: 3px 2px rgb(104, 40, 40);}
+                
+                h2  {color: rgb(17, 43, 2);
+                    font-family: Courier;
+                    font-size: 100%;
+                    text-align: center;}
+                
+                input {
+                    font-family: Courier;
+                    font-size: 100%;
+                    display: block;
+                    margin: 10px auto;
+                    text-align: right;
+                    width: 15%;
+                    padding: 16px 20px;
+                    text-align:right;
+                    color: rgb(17, 43, 2);
+                    }
+
+                input[type=submit] {
+                    font-family: Courier;
+                    font-size: 100%;
+                    display: block;
+                    margin: 10px auto;
+                    text-align: right;
+                    width: 15%;
+                    padding:  16px 20px;
+                    text-align: center;
+                    color: rgb(104, 40, 40);
+                    size: 140%;
+                    border-radius: 15px;
+                    border:darkred ;
+                    }
+        </style>
+    </head>
+   
+    <body>
+        <div>
+            <h1>Wordlist</h1>
+            <ul>
+            {% for word in words %}
+                <h3>{{ word }}</h3>
+            {% endfor %}
+            </ul>
+            <form method="POST" action="{{url_for('back_to_options')}}">
+                    <input type="submit" value="Go Back" />
+                </form>
+            </div>
+    </body>
+</html>

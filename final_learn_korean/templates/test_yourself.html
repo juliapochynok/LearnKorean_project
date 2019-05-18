@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        <style>
+                div {
+                    text-align: center;
+                    background-color: rgb(101, 167, 101);
+                    width: 800px;
+                    border: 30px solid rgb(104, 40, 40);
+                    padding: 150px;
+                    margin: auto;
+                    }
+                body {background-color: rgb(101, 167, 101);}
+
+                h1  {color: rgb(17, 43, 2);
+                    font-family: Courier;
+                    font-size: 200%;
+                    text-align: center;
+                    text-shadow: 3px 2px rgb(104, 40, 40);}
+                
+                h2  {color: rgb(17, 43, 2);
+                    font-family: Courier;
+                    font-size: 100%;
+                    text-align: center;}
+                
+                input {
+                    font-family: Courier;
+                    font-size: 100%;
+                    display: block;
+                    margin: 10px auto;
+                    text-align: center;
+                    width: 15%;
+                    padding: 16px 20px;
+                    color: rgb(17, 43, 2);
+                    }
+
+                input[type=submit] {
+                    font-family: Courier;
+                    font-size: 100%;
+                    display: block;
+                    margin: 10px auto;
+                    text-align: center;
+                    width: 15%;
+                    padding:  16px 20px;
+                    color: rgb(104, 40, 40);
+                    size: 140%;
+                    border-radius: 15px;
+                    border:darkred ;
+                    }
+        </style>
+    </head>
+   
+    <body>
+        <div>
+            <h1>Word:</h1>
+            <h2>{{ word }}</h2>
+            <h1>Variants</h1>
+            <ul>
+            {% for answ in answers %}
+                <h2>{{ answ }}</h2>
+            {% endfor %}
+            </ul>
+            <h1>Your answer: </h1>
+            <form method="POST" action="{{url_for('check_test')}}" >
+                    <input type=”text” name="client_answ"/>
+                    <p><input type = "submit" value = "check" /></p>
+            </form>
+            <form method="POST" action="{{url_for('back_to_options')}}">
+                    <input type="submit" value="Go Back" />
+                </form>
+        </div>
+    </body>
+</html>

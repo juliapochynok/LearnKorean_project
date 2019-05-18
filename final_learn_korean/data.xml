@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20190517040817</lastBuildDate> 
+	<total>2</total>
+	<start>1</start>
+	<num>10</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>71119</target_code>
+		<word>의미하다</word>
+		<sup_no>0</sup_no>
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71119</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>말이나 글, 기호 등이 무엇을 뜻하다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>mean; signify; imply</trans_word>
+				<trans_dfn>For a word, sentence, sign, etc., to mean something.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		<sense>
+			<sense_order>2</sense_order>
+			<definition>어떠한 일, 행동, 현상 등이 무엇을 뜻하다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>imply; stand for</trans_word>
+				<trans_dfn>For a certain matter, action, phenomenon, etc., to mean something.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>15331</target_code>
+		<word>무의미하다</word>
+		<sup_no>0</sup_no>
+		<pos>형용사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=15331</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>아무 뜻이나 가치가 없다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>meaningless; insignificant</trans_word>
+				<trans_dfn>Having no meaning or value.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	
+	
+</channel>
+
+

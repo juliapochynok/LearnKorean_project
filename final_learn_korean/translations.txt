@@ -1,0 +1,1000 @@
+1,사과,영어,apple,A round-shaped sweet and sour fruit with red skin.
+2,오다,영어,come,For something to move from another place to here.
+3,마시다,영어,drink,To make liquid such as water, etc., pass down one's throat.
+4,먹다,영어,eat; have; consume; take,To put food into one's mouth and take it in one's stomach.
+5,주다,영어,give,To give an item to someone else so he/she can have or use it.
+6,가다,영어,go; travel,To move from one place to another place.
+7,듣다,영어,hear,To sense a sound with ears.
+8,배우다,영어,learn,To obtain new knowledge.
+9,만들다,영어,make; create; produce; manufacture,To create something that did not exist, using one's power or skill.
+10,앉다,영어,sit; be seated,To place one's weight on the bottocks and put his/her body on an object or on the floor with his/her upper body in an upright position.
+11,자다,영어,sleep,To be in the state of taking a rest for a period of time with one's eyes closed and mental activities suspended.
+12,씻다,영어,wash,To clean something by removing dirt or grime.
+13,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+14,울다,영어,cry,To shed tears out of unbearable joy, pain, or delight, or to make sounds while shedding tears.
+15,웃다,영어,smile,To smile big or make a sound when one is happy or satisfied.
+16,보다,영어,see; look at; notice,To perceive with eyes the existence or appearance of an object.
+17,일어나다,영어,stand up; rise; sit up,To sit after lying down or stand after sitting.
+18,걷다,영어,walk,To lift one's feet, one foot at a time, from the ground and change their positions.
+19,춤추다,영어,dance,To move one's body to a piece of music or a regular beat.
+20,만나다,영어,meet; join,For a line, road, river, etc. to adjoin or be connected with each other.
+21,공부하다,영어,study,To gain knowledge by learning studies or techniques.
+22,운전하다,영어,drive; operate,To move and handle a machine or car.
+23,사다,영어,buy; purchase; get,To get ownership of an item, right, etc., by paying for it.
+24,읽다,영어,read; read out,To see written words or letters, and utter them as they are pronounced.
+25,주문하다,영어,order,To direct a manufacturer or seller to make or deliver an item by specifying the type, quantity, shape, size, etc.
+26,입다,영어,wear; be dressed; put on,To hang or drape clothes on or around one's body.
+27,찍다,영어,stamp,To make an impression by pressing on a flat surface.
+28,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+29,신다,영어,put on; wear,To put one's feet into a pair of shoes, socks, etc., and cover the whole or a part of the feet with them.
+30,빌리다,영어,borrow; rent,To borrow goods, money, etc., from someone for a certain period of time on the condition of returning them or paying a price later.
+31,전화하다,영어,call; phone,To converse between people via telephone.
+32,말하다,영어,say; tell; speak; talk,To verbally present a fact or one's thoughts or feelings.
+33,가르치다,영어,teach; instruct,To explain knowledge or skills to help someone understand it.
+34,기다리다,영어,wait,To spend time until a person or time comes or a certain event is realized.
+35,걸다,영어,hang,To hang a certain object somewhere so as to prevent it from falling.
+36,청소하다,영어,clean,To clean something dirty and messy.
+37,타다,영어,burn,For a fire to be ignited or spread, due to embers or heat.
+38,나가다,영어,go out; leave,To move from the inside to the outside of an area or space.
+39,들어오다,영어,come in; get in; enter,To move inside from outside within a certain range.
+40,물어보다,영어,ask; inquire; interrogate,To ask a question to find out something.
+41,필요하다,영어,necessary; needed,Being necessary.
+42,도와주다,영어,help; assist,To help someone with something, or give support.
+43,열다,영어,open; unlock,To open or unlock something closed or locked.
+44,닫다,영어,shut,To close something that is opened, such as the door, lid, drawer, etc., by moving it back to its original position.
+45,일하다,영어,work; labor,To use one's body or mind to achieve something.
+46,쉬다,영어,rest; repose; take a rest,To relax oneself to relieve one's fatigue.
+47,운동하다,영어,exercise; take exercise,To move one's body in order to train it or improve one's health.
+48,알다,영어,know; understand,To have information or knowledge about an object or situation through education, experience, thoughts, etc.
+49,모르다,영어,not know,To have no knowledge or understanding of a person, object or fact.
+50,사랑하다,영어,love,To be sexually attracted to someone and like him/her very much.
+51,여러,영어,several; many; a lot of,A large number of.
+52,안,영어,inside,The side that faces the center from the circumference of an object or space; such a part.
+53,하나,영어,one,The very first number when counting numbers.
+54,세계,영어,world; universe,All the countries on the earth.
+55,버리다,영어,throw away; dump,To throw or pour out unnecessary things that one has had.
+56,위,영어,top; higher part,A higher position than a certain standard; a higher position than the middle.
+57,운동,영어,exercise,The act of moving one's body in order to train it or improve one's health.
+58,퍼센트,영어,percent,A bound noun serving as a unit to express a ratio of something against the whole quantity, which is set as 100.
+59,학교,영어,school,An institution where teachers teach students in accordance with a certain purpose, curriculum, or policy, etc.
+60,자기,영어,his; her; he; she,A pronoun used when the speaker refers to the person mentioned in the preceding statement.
+61,가장,영어,best,In a way that is better than any other.
+62,대통령,영어,president,In a republican system, a person who represents a country and holds the  highest position in the administration; or such a position.
+63,가지,영어,kind; sort,A bound noun used to indicate the type of a thing.
+64,시작하다,영어,start; begin; initiate,To constitute or cause to constitute the initial phase of an affair or action.
+65,바로,영어,straight; upright,In a straight line without being curved or crooked.
+66,어느,영어,which,Asking for particular something or someone within a number of things.
+67,그래서,영어,so; therefore,A word used when the preceding statement is the basis for the following statement.
+68,무엇,영어,what,A word indicating an unknown fact or thing.
+69,정부,영어,government,A governing body composed of the three branches of legislature, judiciary and executive.
+70,모든,영어,every,All without exception or without anything or anyone left.
+71,번,영어,beon,A bound noun used to indicate the sequence of a task.
+72,돈,영어,money,A coin or bill that is exchanged when trading goods or labor.
+73,국가,영어,state; nation; country,An entity consisting of land and the people living there, resulting in a group ruled by sovereignty.
+74,그런데,영어,by the way,A word used to change the direction of a story while relating it to the preceding statement.
+75,날,영어,day,The period of twenty-four hours, from midnight to the midnight the next day.
+76,여기,영어,here; this,A pronoun used to indicate a place close to the speaker.
+77,모두,영어,all,Everything without anything missing or remaining.
+78,여성,영어,woman,A grown-up woman capable of having a baby.
+79,친구,영어,friend,A person that one is close to and in an amicable relationship with.
+80,마음,영어,personality,A trait that a person was born with.
+81,후,영어,later time,A point of time following a certain passage of time.
+82,놓다,영어,let go; let loose,To let something that one is either holding in one's hand or pushing be released by opening or relaxing one's hand.
+83,관계,영어,relationship,A state in which two or more people, things, phenomena, etc., become interrelated; or such a relation.
+84,아버지,영어,father; male parent,A word used to refer to or address the man who has procreated as the male parent.
+85,남자,영어,man; male,A person who was born as a male.
+86,어디,영어,where,The word that means a place which one does not know.
+87,몸,영어,body,The entire length of the human or animal body from the head to the feet, or its state.
+88,얼굴,영어,face,The front part of the head that has the eyes, nose and mouth.
+89,왜,영어,why,For what reason; how come.
+90,나타나다,영어,appear; come into sight,For a certain, invisible object to show up.
+91,지역,영어,area; region,A piece of land which is divided according to certain characteristics or criteria.
+92,다르다,영어,different; other,Not the same as each other.
+93,모습,영어,appearance; look,The appearance of a person or thing.
+94,물,영어,water,A liquid that constitutes rivers, lakes, oceans, underground reservoirs, etc., a pure form of which is colorless, orderless, tasteless and transparent.
+95,만나다,영어,meet; join,For a line, road, river, etc. to adjoin or be connected with each other.
+96,내다,영어,make; build,To make a road, passage, window, etc.
+97,보이다,영어,be viewed; be visible; be in sight,To come to know the presence or outward appearance of an object by looking at it.
+98,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+99,이것,영어,this,The word that refers to something that is close to the speaker or something that the speaker is thinking of.
+100,없이,영어,without,Without any matter, symptom, etc.
+101,이번,영어,this time,A turn soon to come, or one that just passed.
+102,길,영어,road; street; way,A long stretch of ground space with a fixed width meant for people or cars to travel along.
+103,생활,영어,life,The act of a person or animal living in a  place.
+104,쓰다,영어,write,To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc.
+105,뿐,영어,ppun,A bound noun indicating that there is nothing more than that.
+106,사이,영어,space; distance; gap,The distance or space between one object and another, or between one place and another.
+107,방법,영어,way; means; manner,A method or way of doing something.
+108,새롭다,영어,new; fresh,Being different from existing ones or never having existed.
+109,내다,영어,make; build,To make a road, passage, window, etc.
+110,앉다,영어,sit; be seated,To place one's weight on the bottocks and put his/her body on an object or on the floor with his/her upper body in an upright position.
+111,처음,영어,first; forefront,The first in order or chronology.
+112,손,영어,hand,A body part connected at the end of the wrist that is used to touch or grab something.
+113,몇,영어,some; several,An unknown number that is not big.
+114,그때,영어,that time; that moment; then,The previously-mentioned time.
+115,과정,영어,process,A process of an event or phenomenon, or something that happens in the process.
+116,삶,영어,living,Living, or aliveness.
+117,갖다,영어,have; hold,To carry or keep something, or hold it in one's hands.
+118,찾다,영어,find; look for,To look here and there in order to gain something or find someone, or to gain something or find someone.
+119,특히,영어,specially; particularly; especially,Differently from a normal one.
+120,이상,영어,or more; and over,A state in which something equals to or is larger or better than a certain point of reference in quantity or degree.
+121,지금,영어,now,The present moment as one speaks.
+122,나가다,영어,go out; leave,To move from the inside to the outside of an area or space.
+123,이야기,영어,story,Words or a piece of writing that is intended to tell others about a fact, state, phenomenon, experience, thought, etc.
+124,교육,영어,education,The act of teaching knowledge, culture, techniques, etc., in order to enhance one's ability.
+125,사다,영어,buy; purchase; get,To get ownership of an item, right, etc., by paying for it.
+126,경제,영어,economy,Activities related to production or consumption; or all the activities related to money, resources, production, consumption, trade, etc., in a society or nation.
+127,아직,영어,yet; still,An adverb used to indicate that more time is needed to reach a certain state, or that something or a certain state has not ended, but is going on.
+128,잡다,영어,hold; grab; seize,To hold something in one's hand and not let it go.
+129,선생님,영어,teacher; master,(polite form) A person who teaches students.
+130,예술,영어,art,Arts and sciences.
+131,서다,영어,stand,For a human or animal to place his/her feet on the ground and assume an upright position.
+132,못,영어,not,The word that negates the action represented by the verb.
+133,역사,영어,history,The process of a human society where it flourishes and collapses with time, or the records of such process.
+134,읽다,영어,read; read out,To see written words or letters, and utter them as they are pronounced.
+135,결과,영어,result; outcome,The state or status after a project or process is completed.
+136,내용,영어,content; substance,What is contained in a bowl, box, etc.
+137,물론,영어,of course,No need to say.
+138,책,영어,books; publications,Pieces of writing, pictures, etc., that are printed and bound.
+139,일어나다,영어,stand up; rise; sit up,To sit after lying down or stand after sitting.
+140,당신,영어,you,(formal, slightly addressee-raising) A pronoun used to indicate the listener.
+141,시장,영어,market,A place for selling and buying a variety of products.
+142,넣다,영어,put; insert,To cause to go into a certain space.
+143,중요하다,영어,important,Valuable and indispensable.
+144,무슨,영어,what,An expression used to ask about a business, subject or object that one is not sure of or does not exactly know.
+145,느끼다,영어,feel,To perceive a certain stimulus through a sensory organ such as the nose, skin, etc.
+146,어렵다,영어,difficult; challenging,Very complicated or hard to do.
+147,힘,영어,strength; power,The force of muscles with which a person or an animal moves or which makes something move.
+148,너무,영어,too,To an excessive degree.
+149,나라,영어,country; nation; state,A social organization of people with a territory and sovereign rights.
+150,부르다,영어,call for; call out for; gesture,To ask someone to come or draw his/her attention through words or actions.
+151,의미,영어,meaning; sense,What a word, sentence, sign, etc., means.
+152,자리,영어,space; place,A space that is occupied by someone or something.
+153,밝히다,영어,light up; brighten up,To light up a dark place with a torch, lamp, etc.
+154,죽다,영어,die,For a living plant, animal, or insect to lose its life.
+155,이미,영어,already,In a state in which something was done before the present.
+156,정치,영어,politics,The practice of maintaining the power of a nation and governing it to establish order in society and protect the basic livelihood of people.
+157,국민,영어,people; national; citizen,People that compose a country or a person with the nationality of a country.
+158,생명,영어,life,The power that enables a living thing to live.
+159,얘기,영어,story,Words that are intended to tell others about a fact, state, phenomenon, experience, thought, etc.
+160,학생,영어,student; learner,A person who studies in a school.
+161,연구,영어,research; study,The act of investigating and analyzing an object or matter in detail in order to find a fact related to it.
+162,엄마,영어,mom,A word used to refer to or address one's mother in an informal situation.
+163,이름,영어,name,A word used to refer to or address an animal, object, phenomenon, etc., to distinguish it from others.
+164,하나,영어,one,The very first number when counting numbers.
+165,내리다,영어,fall; descend,To snow, rain, etc.
+166,사건,영어,incident; event; affair; accident; case,A matter that is worthy of interest or attention.
+167,및,영어,besides; as well as,And also.
+168,쉽다,영어,easy,Not hard or difficult to do.
+169,짓다,영어,make,To make food, clothes, buildings, etc., with necessary ingredients or components.
+170,이유,영어,reason,The cause or reason of a certain result.
+171,필요하다,영어,necessary; needed,Being necessary.
+172,글,영어,writing; text,A state of expressing one's thoughts or affairs in words.
+173,생기다,영어,be formed; come into being,For something that did not exist to come into existence.
+174,사용하다,영어,use,To use something for a certain job or function.
+175,남편,영어,husband,The man of a married couple.
+176,밖,영어,outside,The side beyond a line or boundary.
+177,세상,영어,world,The entire space on earth.
+178,작다,영어,small; little,Lower than others or average in length, area, volume, etc.
+179,타다,영어,burn,For a fire to be ignited or spread, due to embers or heat.
+180,대학,영어,university; college,A tertiary educational institution high school graduates go to.
+181,작품,영어,product; production,Something that has been made by someone.
+182,상황,영어,situation; condition,The stiuation or state of how something is proceeding.
+183,가운데,영어,center; middle,A point that is almost equally distant from all ends of an object or within a space.
+184,보내다,영어,send,To make a person, goods, etc., go somewhere else.
+185,즉,영어,that is,In other words or to put it another way.
+186,상태,영어,condition; state,The look or situation of an object or phenomenon.
+187,이후,영어,later time; the future,The time after the present time.
+188,당시,영어,then; at that time,The period when something happened, or the previously-mentioned period.
+189,문학,영어,literature,An art that expresses people's thoughts or emotions through words or writings such as poems, novels, essays, plays, etc.
+190,더욱,영어,more; further,To a greater degree; more severely.
+191,아주,영어,very; so; extremely,To a degree much greater than normal.
+192,지방,영어,area; district,A region divided based on administrative districts, characteristics, etc.
+193,밤,영어,night; evening,The period of dark hours from sunset to sunrise the next day.
+194,높다,영어,high; lofty,The length from bottom to top being long.
+195,최근,영어,the latest; the most recent,The period from a past date, not long ago, to the present date.
+196,채,영어,chae,A bound noun that serves as a unit for counting the number of houses, buildings, etc.
+197,현실,영어,reality,A fact or state that exists in reality.
+198,환경,영어,environment,The state of nature affecting the life of living creatures.
+199,컴퓨터,영어,computer,A machine made from electronic circuits that quickly and accurately processes mass data such as documents, photographs, videos, etc.
+200,먼저,영어,being early,The state of being in advance in time or order.
+201,다니다,영어,go continuously,To constantly go to a place.
+202,얼마나,영어,how,In a great and enormous degree in terms of a state or feeling.
+203,자체,영어,self,Just itself, not something else.
+204,열다,영어,open; unlock,To open or unlock something closed or locked.
+205,머리,영어,head,A part of the human or animal body above the neck that includes the face and hair.
+206,묻다,영어,ask; inquire; interrogate,To say something, demanding an answer or explanation.
+207,남다,영어,remain; be left,For part of something to remain without being used up.
+208,부분,영어,part,One of the parts that comprises the whole; one of the parts into which the whole is divided.
+209,기업,영어,company; enterprise; business,An organization doing business activities such as production, sales, distribution, etc., to gain profit.
+210,변화,영어,change,A state in which the shape, condition, property, etc., of something have been altered.
+211,아들,영어,son,One's male child.
+212,선거,영어,election,The act of choosing a representative or executive of an organization or group through a vote.
+213,관하다,영어,concern,To have something as the subject of conversation or thought.
+214,그냥,영어,as it is; as it stands,In the manner of leaving something as it is.
+215,나누다,영어,divide; split,To divide something that was one into two or more parts or pieces.
+216,이용하다,영어,use; utilize,To use something as occasion demands in a way that is helpful or beneficial to one.
+217,거의,영어,most; almost,A little less than all.
+218,중심,영어,center,The very middle of something.
+219,활동,영어,activity; movement,An act of moving one's body to perform some action.
+220,오늘,영어,today,The day that is passing at the present time.
+221,서로,영어,each other; one another,Toward each person who is one of two or more people who are related.
+222,관심,영어,interest; attention,A feeling of attraction towards or positive thoughts about something.
+223,역시,영어,also; as well,Likewise.
+224,이거,영어,this,A pronoun that is used to refer to something that is close to the speaker or that the speaker is thinking of.
+225,광고,영어,advertisement; publicity,The act of promoting something to people.
+226,나다,영어,grow; sprout,To rise above the skin or ground.
+227,정신,영어,spirit; mind,Spirit or mind as opposed to body or material.
+228,이르다,영어,early; premature,Preceding or earlier than a point in time that serves as the baseline.
+229,이루다,영어,form; make,To create a certain state or result.
+230,아침,영어,morning,The hours between dawn and the time when the sun is up and daily activities start.
+231,웃다,영어,smile,To smile big or make a sound when one is happy or satisfied.
+232,현상,영어,phenomenon,An object's form or state perceivable by a human being.
+233,기술,영어,technology,A means for the practical application of scientific theories to make them useful for human life.
+234,전체,영어,whole,Something considered as an entirety, which is composed of elements or parts.
+235,그래,영어,okay; sure,An exclamation used when giving a positive answer that means 'I'll do so', 'Yes, it is', or 'I see.'
+236,얻다,영어,get; receive,To take and have something without special efforts or without paying for it.
+237,아름답다,영어,beautiful; pretty,A color, appearance, or voice, etc., pleasing and satisfying one's eyes and ears.
+238,민족,영어,people; ethnic group; race,A group of people who have formed their own unique language, culture, and history while living together in a certain region over a long period of time.
+239,조사,영어,poll; survey; investigation,The act of examining or searching to understand the details of an affair or thing.
+240,듯,영어,deut,A bound noun used when the following statement is the same or almost the same as the preceding statement.
+241,입,영어,mouth,A bodily organ extending from the lips to the throat that one uses to eat and make sounds.
+242,뭐,영어,what,A pronoun used to refer to a fact or object that one does not know of.
+243,그대로,영어,as it is; as it stands,Exactly as the original shape or state.
+244,영화,영어,film; movie,A composite art which captures moving objects on film with a certain message and then shows it on a screen by using a projector.
+245,필요,영어,need; necessity; requirement,A state of being necessary.
+246,하늘,영어,sky,The vast, limitless space that unfolds above the ground.
+247,년대,영어,nyeondae,A bound noun used to refer to the time from the first year of a 10, 100, or 1000-year-period to the year before moving over to the next period.
+248,과학,영어,science,A discipline which researches phenomena occurring in nature.
+249,자연,영어,nature,All phenomena that occur spontaneously without human influence or existences that have existed from the beginning of the earth.
+250,정말,영어,fact,A truth without falsehood, or words without any lack of conformity to truth.
+251,구조,영어,rescue,Helping someone who has been in an accident or disaster get out of danger.
+252,결국,영어,conclusion; end; finale,The stage where an incident or situation is completed.
+253,밥,영어,steamed rice; rice,A dish made by boiling rice and other grains until the water has cooked away.
+254,입다,영어,wear; be dressed; put on,To hang or drape clothes on or around one's body.
+255,오히려,영어,on the contrary,In the manner of being totally different from or contrary to common expectations.
+256,프로그램,영어,program; list of shows,The list of operation plans or orders of a certain event, or the details of such an event.
+257,네,영어,you,A form of '너' (you), when the postpositional particle '가' is attached to it.
+258,이루어지다,영어,be done; be formed,For a certain state or result to be created or made.
+259,하루,영어,day,The 24 hours from midnight to the following midnight.
+260,그림,영어,drawing; painting; sketch,Shapes, images, etc., that are expressed on a flat surface with lines or colors.
+261,터,영어,lot; site,A site where a building was built or will be built.
+262,마시다,영어,drink,To make liquid such as water, etc., pass down one's throat.
+263,치다,영어,hit; strike,To cause the hand or an object to bump hard against something.
+264,혼자,영어,being alone; being by oneself,A state of being the only person, with no one around.
+265,나가다,영어,go out; leave,To move from the inside to the outside of an area or space.
+266,이제,영어,now,This moment being spoken of.
+267,교수,영어,teaching; instruction,An act of teaching students.
+268,술,영어,alcohol; liquor,A beverage that contains alcoholic ingredients so that one gets drunk if one drinks it, such as beer, soju, Korean distilled liquor, etc.
+269,사랑,영어,love,The state of being sexually attracted to and having strong affection for a person.
+270,전화,영어,call; phone call,The act of exchanging words between people via telephone, or such conversation.
+271,끝나다,영어,end; finish,For something to be completed until the end.
+272,맞다,영어,be correct,For the answer to a problem to be correct.
+273,아빠,영어,dad; daddy,A word used to refer to or address a father in an informal situation.
+274,걸리다,영어,hang,For a certain object to be hung somewhere so as not to fall.
+275,지키다,영어,guard; defend,To prevent something from the loss of wealth, profit, safety, etc., or protecting against external aggression.
+276,한번,영어,very; really; extremely,An adverb used to indicate that the speaker emphasizes a certain action or state of another person or thing.
+277,커피,영어,coffee fruit; coffee powder,The fruit of a coffee tree drunk as a brew, after being roasted, ground, and boiled, or its powder.
+278,가슴,영어,chest,The front part of a human or animal's body, between the neck and the abdomen.
+279,길다,영어,long; lengthy; extensive,Two ends of an object being far apart.
+280,바라보다,영어,look; stare; gaze,To look straight at something.
+281,알아보다,영어,investigate; examine; look into,To make an investigation into or inquire into something in order to know what one does not know.
+282,맛,영어,taste,A sensation that is felt when touching one's tongue to food, etc.
+283,대부분,영어,most; bulk; majority,The number or quantity exceeding the half and nearing almost a total.
+284,산업,영어,industry,An activity of creating goods, services, etc. such as agriculture, manufacturing, forestry, fishery, mining, service industry, etc.
+285,매우,영어,very; very much; greatly,Much more than average.
+286,오르다,영어,go up; get on; climb; reach,For a human or an animal to move from a lower to a higher place or from the bottom to the top.
+287,음식,영어,food,A dish such as steamed rice or soup that a person eats at a meal.
+288,표정,영어,facial expression,The state of one's face showing one's feeling, thought, etc., or such a face.
+289,꼭,영어,without fail; at any cost; certainly,By all means under any circumstances.
+290,일부,영어,part; some; portion; fraction,One portion of something, or part of the whole.
+291,요즘,영어,nowadays; these days,A period from a while ago to the present.
+292,계획,영어,plan; program; scheme; design,The act of thinking in detail about future events and make arrangements for them.
+293,느낌,영어,feeling; sense; impression,A sense, mood, emotion, etc. felt in one's body and mind.
+294,얼마,영어,what amount; what number; what price,A number, amount, price, and degree that one does not know exactly.
+295,고개,영어,head,A word referring to one's head, including the neck.
+296,성격,영어,personality; character,A person's innate quality or character.
+297,계속,영어,continuance; succession,The act of going on without interruption.
+298,세기,영어,century,A period of one hundred years.
+299,세우다,영어,pick up; raise up; make something stand,To make a person or animal put his/her or its feet on the ground, stretch his/her or its legs, and straighten his/her or its body; to make a person or animal get to his/her or its feet.
+300,아내,영어,wife,The man's female partner in marriage.
+301,가족,영어,family,A group of people who mainly live together in the same house and are related by marriage or as parents, children, siblings, etc., or the members of such a group.
+302,현재,영어,now; present; today,The present time.
+303,세,영어,three,Amounting to three in number.
+304,발전,영어,development; advancement,The act of moving forward to a better state or higher step.
+305,차,영어,tea,A beverage made by infusing or brewing leaves, roots, fruits, etc., of a plant with a good smell or flavor.
+306,놀다,영어,play; have fun,To have a good time while playing.
+307,향하다,영어,face; turn; direct,To face a certain object or direction.
+308,관련,영어,being related,People, objects, or phenomena, etc., of more than two, being related so as to influence each other, or the relationship.
+309,형태,영어,form; shape,The appearance or shape of an object.
+310,도시,영어,city,An area where many people live and which is the center of politics, economics, and culture.
+311,작업,영어,work,The act of doing certain work; such work.
+312,분위기,영어,mood,The atmosphere that is felt on an occasion or in a situation.
+313,그러하다,영어,so; as such; like that,A state, appearance, characteristic, etc., being as such.
+314,나이,영어,age,The number of years a person, animal, or plant has lived since birth.
+315,우선,영어,first of all; to begin with; before everything,Before doing something.
+316,믿다,영어,believe; trust,To think of something as being right or true.
+317,바꾸다,영어,change; exchange; replace; turn into,To remove something and replace it with another.
+318,낳다,영어,give birth; deliver,To deliver a baby or egg out of one's womb.
+319,바,영어,ba,A bound noun indicating things mentioned earlier or a piece of work, etc.
+320,정보,영어,information; data,A body of knowledge extracted from data which are put together after observing or evaluating a certain fact or phenomenon, or such data.
+321,열리다,영어,open; be unlocked; unlock,For something closed or locked to be opened or unlocked.
+322,좋아하다,영어,like,To have good feelings toward something.
+323,그리다,영어,draw; paint,To express an object in lines or colors by using a pencil, brush, etc.
+324,만큼,영어,mankeum,An expression used to indicate that something is of the same quantity or level as the preceding statement.
+325,배우다,영어,learn,To obtain new knowledge.
+326,역할,영어,role; part,Activities assigned to someone or that he/she has to do.
+327,행동,영어,action; movement behavior; deed,An act of moving one's body to do a certain task or action.
+328,국내,영어,interior of a country; domestic territory,Area within a country.
+329,비하다,영어,compare; be comparable,To weigh against or compare with another.
+330,기관,영어,engine,A mechanical device that converts thermal, water, and electric power, etc., into mechanical energy.
+331,입장,영어,admission; entrance,Entering the place of an event or performance.
+332,만하다,영어,worth,An auxiliary adjective used to indicate that the action described by the preceding words is worth doing.
+333,아래,영어,bottom; lower part,A lower position than a certain standard.
+334,방식,영어,way; means,A certain method or format.
+335,영향,영어,influence,The effect or action of something extending to others.
+336,그럼,영어,if so; in that case,A word used when the following statement is conditional upon the preceding one.
+337,나서다,영어,come out; come forward,To come forth or out, and stand.
+338,흐르다,영어,flow; run,For a liquid like water, etc., to move to a lower place or pass a certain location.
+339,저,영어,I; me,The humble form used by the speaker to refer to himself/herself for the purpose of showing humility to the listener.
+340,깊다,영어,deep,Having a very long distance from top to bottom or from outside to inside.
+341,배,영어,abdomen; belly,The part between the chest and legs on the human or animal body.
+342,내,영어,I,A form of '나' (I), when the postpositional particle '가' is attached to it.
+343,모양,영어,shape,The outer appearance or aspect.
+344,산,영어,mountain,A land mass that rises much higher above a plane and usually has trees, grass, rocks, etc.
+345,하지만,영어,but; however,A word used to connect two statements that are opposite in meaning to each other.
+346,조건,영어,condition,A state or element that is needed in advance to accomplish something.
+347,문,영어,door,An openable structure through which people go in and come out of a place; or put in or take out things.
+348,꽃,영어,flower,That part at the end of a plant stem that has a unique shape, color and fragrance or a plant that produces such a thing.
+349,단계,영어,phase; step,Each stage of a process in which something changes.
+350,올리다,영어,increase; raise,To make a price, figure, energy, etc., get higher or increase.
+351,그동안,영어,meantime; meanwhile,The previously-mentioned period, or a certain period of time before one sees or contacts someone again.
+352,교사,영어,teacher,A person with teaching qualifications who teaches students in a kindergarten, elementary school, middle school, high school, etc.
+353,넘다,영어,exceed; go beyond,To come to go beyond a certain time, period, range, etc.
+354,지니다,영어,keep,To carry an object.
+355,바람,영어,wind,The movement of air that is caused by changes in atmospheric pressure or by a human or machine.
+356,잘하다,영어,do a right thing; do right,To do in a right and honest way.
+357,마을,영어,town,A place where many houses are gathered.
+358,어리다,영어,young,Low in age.
+359,대표,영어,representative,The quality of representing well the state or characteristic of the whole by one thing, or such a thing.
+360,가능성,영어,possibility; chance; likelihood,The extent to which something can happen.
+361,방향,영어,direction; side,A side facing a certain spot or direction.
+362,대회,영어,meeting; convention,Gathering or meeting attended by a lot of people.
+363,목소리,영어,voice,The sound that comes out of the human throat.
+364,노래,영어,song; music; singing,A composition created by setting rhythmical lyrics to music; or the act of singing such a piece of music.
+365,바다,영어,sea,The part of the earth that is differentiated from the land and filled with salty water.
+366,힘들다,영어,strenuous; laborious,Requiring much power or effort.
+367,공부,영어,study,The act of gaining knowledge by learning studies or techniques.
+368,움직이다,영어,move; budge; be in motion,For a position or posture to change; to change a position or posture.
+369,의원,영어,member of an assembly; assemblyman,A person who as a member of the National Assembly or a local assembly, has the right to decide on a certain issue.
+370,노력,영어,effort; endeavor; hard work,Making an effort and working hard to achieve something.
+371,전혀,영어,(not) at all; completely,By any possibility or wholly.
+372,언니,영어,older sister,A word used only by a female to refer to or address her female siblings or cousins older than herself.
+373,단체,영어,group; society; association,An organization of people who gather for a common goal.
+374,알려지다,영어,become known,For a matter, fact, etc., to be revealed.
+375,가능하다,영어,possible; able,Being able to be something or to do something.
+376,능력,영어,ability; capability; competence,The ability to do something.
+377,주장하다,영어,assert; claim,To strongly present one's opinion or belief.
+378,불,영어,fire,The act of a substance burning while emitting light and heat.
+379,주민,영어,resident,A person who lives in a certain area.
+380,모으다,영어,gather; collect; get together,To gather things placed here and there in one place.
+381,자료,영어,material; data; reference,Material which is the basis for conducting study or research.
+382,존재,영어,existence,A state of being existent or a thing that exists.
+383,학년,영어,school year,The unit for the annual learning process in school education.
+384,신문,영어,newspaper; paper,A publication that delivers to its readership information about new events occurring around the world on a regular basis.
+385,가지다,영어,have; hold,To carry or keep something, or hold it in one's hands.
+386,이해하다,영어,understand; comprehend; figure out,To realize and know something; to know something well and accept it.
+387,제품,영어,product,The act of making an item by using materials, or such an item.
+388,분야,영어,field; sphere,One of the parts or areas into which social activities are divided by a certain standard.
+389,선생,영어,teacher; instructor,A person whose job it is to teach.
+390,사업,영어,business,The act of managing an organization for economic gain.
+391,행위,영어,act; action; conduct; deed,An act done with an intention or will.
+392,수준,영어,standard; norm,The degree or level that serves as a standard for judging an object's value, quality, etc.
+393,지난해,영어,last year,The previous year.
+394,표현,영어,expression; representation,An act of turning one's feelings, thoughts, etc., into a speech, a piece of writing, a gesture, etc., and showing it.
+395,기분,영어,mood; feelings,The state of one's emotion such as displeasure, pleasure, gloom, anger, etc.
+396,대,영어,dae,A bound noun that serves as a unit for counting the number of cars, planes, musical instruments, machines, etc.
+397,젊다,영어,young,Being in one's youthful years.
+398,옷,영어,clothes; garment,An item that one wears to cover his/her body, protect himself/herself from cold, heat, etc., and look fashionable.
+399,기능,영어,function; role,The act of playing a role or functioning; or such a role or function.
+400,전쟁,영어,war,The act of opposing countries or peoples fighting against each other by mobilizing their armed forces and arsenal.
+401,전,영어,past,A point in time in the past.
+402,꿈,영어,dream,A mental phenomenon during one's sleep, in which one sees, hears, and feels just as if one is awake.
+403,회의,영어,meeting; conference,A state in which people gather and discuss a topic, issue, etc.; or such a meeting.
+404,방송,영어,broadcasting,The act of transmitting sounds, visual images, etc., by television or radio in the form of radio waves so that people can watch or listen to them.
+405,이야기하다,영어,tell; say; speak,To talk to someone about a certain fact, state, phenomenon, experience, thought, etc.
+406,나무,영어,tree,A plant with a hard stem, branches and leaves.
+407,자다,영어,sleep,To be in the state of taking a rest for a period of time with one's eyes closed and mental activities suspended.
+408,연극,영어,play; drama; theater,An act in which an actor or actress acts on a stage according to a script for the audience.
+409,마찬가지,영어,being the same,A state in which the conditions of two things appear to be or are the same.
+410,걷다,영어,walk,To lift one's feet, one foot at a time, from the ground and change their positions.
+411,노동,영어,labor; work,The physical or mental task that a person does to obtain food or goods necessary for living.
+412,이때,영어,this time; this moment; this instant,Just now; the time mentioned in the very previous moment.
+413,과거,영어,past,A time that has passed
+414,가치,영어,value,Price or the degree of valuableness.
+415,집단,영어,group; body,A group or organization that consists of two or more people.
+416,현대,영어,(질문) present era; contemporary world,Today's era
+417,살펴보다,영어,examine; check,To examine thoroughly.
+418,장관,영어,minister,The head of a government ministry responsible for national affairs.
+419,차이,영어,difference,The state of being unlike, or the degree of the unlikeness.
+420,풀다,영어,untie,To return what has been tied, bound, or twisted back to its original state.
+421,시절,영어,days; the time,A specific period or time.
+422,물건,영어,article; thing; item; goods,A certain substance in a specific form.
+423,직접,영어,direct relationship,The state of being connected directly without any other person, object, etc., in between.
+424,개인,영어,each person; individual,Each person.
+425,근데,영어,by the way,A word used to change the direction of a story while relating it to the preceding content.
+426,발,영어,foot,The bottom most part of a human's or animal's leg.
+427,작가,영어,writer; author,A person who creates a poem, novel, play, broadcast script, picture, etc.
+428,불교,영어,Buddhism,A religion created by Sakyamuni in India, which is founded on the ideal of relieving oneself of all pains in this world to become a Buddha.
+429,끌다,영어,pull,To pull and move something with its one side touching the ground.
+430,빨리,영어,quickly,In a short duration of time.
+431,시작되다,영어,start,To take first step in doing an action.
+432,말다,영어,stop; choose not to,To not do a certain work or behavior, or stop doing it.
+433,설명하다,영어,explain; account for,To describe something to another person in a way that he/she could understand easily.
+434,우주,영어,the universe,An endless space that includes infinite time and all the things in the world.
+435,시기,영어,time; period,A period in which an event or phenomenon is in progress.
+436,마치,영어,as if,Expressing one thing by likening it to another.
+437,살,영어,flesh; weight,The tender part of the human or animal body that covers the bones.
+438,생산,영어,production,An act of making the objects needed everyday life.
+439,바라다,영어,want; hope; wish,To expect that something could be done as one's thought or hope.
+440,강하다,영어,strong; powerful,Having strength.
+441,경험,영어,experience,Doing or going through something, or the knowledge or skills obtained in doing so.
+442,음악,영어,music,A field of art, in which one expresses one's thoughts or emotions by using one's voice or a musical instrument to make sounds with beats and melody.
+443,최고,영어,the highest; top,The degree of something being the highest.
+444,나타내다,영어,appear; turn up; show up,For a certain, invisible object to make its appearance.
+445,아프다,영어,hurting; aching,Feeling pain or suffering due to an injury or illness.
+446,적다,영어,write; write down,To record something in writing.
+447,비,영어,rain,Water drops generated from cloud-forming vapors high in the sky that get cold, condense, and fall.
+448,고향,영어,home; hometown,A place where one was born and grew up.
+449,놀라다,영어,be surprised; be astonished; be shocked; be scared,To become tense or feel one's heart pounding as one faces an unexpected incident or is scared.
+450,다양하다,영어,various; diverse,Being varied in colors, shapes, types or content.
+451,울다,영어,cry,To shed tears out of unbearable joy, pain, or delight, or to make sounds while shedding tears.
+452,농민,영어,farmer,A person who does farming as a job.
+453,은행,영어,bank,An institute that keeps and manages the money people have deposited and lends it to those who need it.
+454,결혼,영어,marriage; wedding; union; matrimony,A man and woman become legally a married couple.
+455,법,영어,law; act,A set of regulations and rules that the state institutes for all citizens to comply with.
+456,소설,영어,novel,A literary work that an author writes in the form of storytelling.
+457,예,영어,yes sir; yes ma'am,An exclamation uttered when the speaker answers the call of his/her elder.
+458,오후,영어,afternoon,The duration from noon to the time when the sun goes down.
+459,질서,영어,order,The regulations or order that people have to maintain in a crowded place to avoid confusion.
+460,담다,영어,dish up,To put something into a dish, etc.
+461,모이다,영어,be gathered; be collected,For separate things to gather in one place.
+462,시민,영어,urbanite; city dweller,A resident living in a city.
+463,회장,영어,president,A person who presides over a meeting, being responsible for handling the affairs of the meeting.
+464,빠르다,영어,fast; quick,Taking a short time to accomplish certain actions.
+465,스스로,영어,oneself,One's own self.
+466,아기,영어,baby,An infant that feeds on breast milk.
+467,아저씨,영어,uncle,A word used to refer to or address a male relative in the same generation as one's parents.
+468,옛날,영어,past; ancient times,A time that is far back from the present.
+469,이날,영어,that day; this day,The day that has just been mentioned.
+470,제대로,영어,right,In accordance with a proper formality, standard or form.
+471,달,영어,moon,A bright, round celestial body that apprears in the sky at night.
+472,던지다,영어,throw,To move one's arm and throw the object in one's hand in the air.
+473,참,영어,truly,In the manner of being not contrary to a fact or reason.
+474,이곳,영어,here,A pronoun used to indicate a place close to the speaker.
+475,마지막,영어,last,The very end of a time or order.
+476,벌이다,영어,kick off; start,To plan a certain project and kick off or proceed with it.
+477,병원,영어,hospital; clinic,A place equipped with facilities where doctors and nurses care for the sick.
+478,자세,영어,posture; pose,The way of moving one's body or keeping one's balance.
+479,경찰,영어,police; policing,The act of keeping order in society and protecting people and property from crimes; or a government agency in charge of such tasks.
+480,맡다,영어,undertake; take care of; take on; be in charge of; take charge of,To take responsibility and do something.
+481,저녁,영어,evening,The hours between the time when the sun starts setting and the time when the night falls.
+482,한편,영어,same side; same group,The same side.
+483,그러면,영어,if so,A conjunctive adverb used when the following statement is conditional upon the preceding one.
+484,기자,영어,reporter; journalist,A person whose job it is to do research, write or edit articles for newspapers, magazines, broadcasts, etc.
+485,넓다,영어,broad,The size of the surface, floor, etc., being large.
+486,시험,영어,test; exam,The act of testing and evaluating knowledge or capabilities through a particular process involving problems, questions, actual performance, etc.
+487,잠,영어,sleep,The state of taking a rest for a period of time with one's eyes closed and mental activities suspended.
+488,주로,영어,usually,In a manner of serving as a basis or center.
+489,훨씬,영어,by far; much; a lot,In the state of something being greatly different from something else it is being compared to.
+490,면,영어,side; face,The flat part on the surface of a thing.
+491,통일,영어,unification,An act of combining what has been divided or split into one.
+492,가깝다,영어,near; close; adjacent,Not far from a certain location.
+493,건물,영어,building; structure; edifice,A structure with walls and a roof for people to live in or store objects.
+494,시설,영어,facility; installation,The act of constructing a building or making a tool, machine, device, etc., for a certain purpose, or such a building or objects like a tool, machine, device, etc.
+495,외국,영어,foreign country,A country other than one's own.
+496,밑,영어,bottom,The lower part of something.
+497,어른,영어,adult,A fully-grown person.
+498,주변,영어,being around,The surroundings that encompass someone or something, or being within a close range.
+499,대신,영어,substitute,A state in which a subject is newly responsible for something that another subject was responsible for; such a subject that is newly responsible.
+500,원인,영어,cause; reason,An affair or event that acts as the root of an occurrence of a certain thing or change of an object's state.
+501,팔다,영어,sell,To give an object or a right to someone or provide one’s effort, etc., to someone after receiving money for it.
+502,차례,영어,procedure; process,An order by which one does a certain task or a sequence in which work is done.
+503,열심히,영어,hard; diligently; zealously,With all one's heart.
+504,일하다,영어,work; labor,To use one's body or mind to achieve something.
+505,재산,영어,asset; property,Money or money equivalent owned by an individual or group.
+506,부모,영어,parents,Father and mother.
+507,언어,영어,language,The means of communication, such as sounds, letters, etc. for expressing or conveying one's thoughts or feelings; or the system of such means.
+508,요구하다,영어,request; demand,To ask for something that one needs or is supposed to receive.
+509,올라가다,영어,go up; rise; ascend,To move from the bottom to the top, or from a lower place to a higher one.
+510,첫,영어,first,Of the very first.
+511,그날,영어,that day; the day,The day mentioned earlier.
+512,사실,영어,fact,An incident that actually happened or is in progress.
+513,자주,영어,often; frequently,In the state of something being repeated at short intervals.
+514,당하다,영어,undergo pain,To undergo undesirable pain or damage.
+515,삼다,영어,adopt; have; take,To make someone a person become related to oneself.
+516,약,영어,medicine; medication; pill; drug,A substance orally administered, applied or injected to treat or prevent an illness, wound, etc.
+517,담배,영어,tobacco,A plant whose leaves are dried and processed for making a cigar.
+518,일으키다,영어,raise someone up; pick up; lift up,To make one's body, a part of one's body, or another person stand.
+519,일단,영어,first; in the first place; to begin with,First of all.
+520,할아버지,영어,grandfather; grandpa,A word used to refer to or address the father of one's father or mother.
+521,조직,영어,organization,The act of forming a systematic group to achieve a certain goal, or such a group.
+522, 태어나다,영어,be born,For a person, animal, etc., to take form and come out of the mother’s body.
+523,공장,영어,factory; plant,A place where products are manufactured by processing raw materials and other materials.
+524,벌써,영어,so soon,More quickly than one thought.
+525,즐기다,영어,appreciate; enjoy; delight in,To enjoy to the fullest.
+526,지,영어,ji,A bound noun used to indicate the duration of time from the occurrence of an incident until the present moment.
+527,환자,영어,patient; sick person,A person who is ill due to a disease or injury.
+528,변하다,영어,change; turn; become different,For something to become something else or become different in nature.
+529,사고,영어,accident,An unfortunate affair that happens unexpectedly.
+530,그래도,영어,geuraedo,An abbreviated word for '그리하여도' (a conjugated form of '그리하다' (do so)).
+531,아무리,영어,no matter how,To an extremely severe degree.
+532,맞추다,영어,piece together; assemble,To piece together several parts that have been put apart into their right positions.
+533,쌀,영어,rice,The peeled grains of rice that are cooked for a meal.
+534,일반,영어,the same; one and the same,The state of being the same.
+535,재미있다,영어,interesting,Feelings of joy and pleasantness being present.
+536,가르치다,영어,teach; instruct,To explain knowledge or skills to help someone understand it.
+537,대화,영어,dialogue; conversation; talk,Talking with and facing another person, or this kind of talk.
+538,막다,영어,block; close; fend off,To make a road, passage, hole, etc., not passable.
+539,올해,영어,this year,The current year.
+540,형,영어,older brother,A word used only by a male to refer to or address his male siblings or cousins older than himself.
+541,달리,영어,unlike,Differently.
+542,버리다,영어,throw away; dump,To throw or pour out unnecessary things that one has had.
+543,붙이다,영어,stick; paste,To make something not come off somewhere.
+544,인물,영어,person; man,A person himself/herself.
+545,늘,영어,always,Invariably, all the time.
+546,모두,영어,all,Everything without anything missing or remaining.
+547,전국,영어,the entire nation,The entirety of a nation.
+548,마치다,영어,complete; finish,For a task or process in progress to complete or to complete it.
+549,전,영어,past,A point in time in the past.
+550,다만,영어,merely,Only, not others.
+551,도움,영어,help,The act of helping another person.
+552,가정,영어,home; family,A community consisting of family members or the house they live in.
+553,걸다,영어,hang,To hang a certain object somewhere so as to prevent it from falling.
+554,빠지다,영어,sink down into; be thrown into,To fall into water, a pit, etc.
+555,멀다,영어,distant; far-off,The distance between two places being long.
+556,버스,영어,bus,A large vehicle designed to carry passengers along a fixed route for a fare.
+557,오늘날,영어,today; these days,The present.
+558,잠시,영어,moment; short while,A short time.
+559,농업,영어,agriculture; farming,The industry or job related to farming.
+560,대다,영어,be on time,To be on time.
+561,식,영어,ceremony; ritual,An event performed according to a certain format.
+562,의견,영어,opinion,A thought one has after making one's own judgment on a certain object or phenomenon.
+563,무대,영어,stage,A large floor in front of the audience's seats that is raised a bit for performances like plays, dances, concerts, etc.
+564,사진,영어,picture; photo,An image of a certain object recorded by a camera, and then produced in a print format, in a file on the computer, etc. to preserve it for a long period of time.
+565,주장,영어,assertion,The act of strongly presenting one's opinion or belief, or such opinion or belief.
+566,표현하다,영어,express; represent; manifest,To turn one's  feelings, thoughts, etc., into a speech, a piece of writing, a gesture, etc., and show it.
+567,인하다,영어,result from; be caused by; be due to,To be the cause of something.
+568,이상하다,영어,strange; unusual,Not normal.
+569,제일,영어,first,The one coming first among many.
+570,붙다,영어,stick to; cling to,For something to adhere to something else and not come off easily.
+571,아마,영어,maybe; likely,An adverb used to indicate that something is possible but not sure or certain.
+572,잇다,영어,connect; link; join,To tie or glue two strings, cords, pieces, etc., together, or put things, etc., into contact.
+573,조금,영어,a little; little,A small quantity or degree.
+574,경기,영어,game; match,Sports or skill-based competitions.
+575,목적,영어,purpose,Something one wants to achieve or the direction one wants to head.
+576,태도,영어,attitude,One's manner of moving one's body or dealing with a certain incident.
+577,남성,영어,male,The gender that cannot give birth, or a fully-grown person of such a gender.
+578,주위,영어,surrounding area,An area surrounding a certain place.
+579,대책,영어,measure; action,A plan that enables one to overcome a difficult situation.
+580,그만,영어,no more,To just that much and no more.
+581,발생하다,영어,occur; generate,For an event to come to happen or a matter to come into being.
+582,다리,영어,leg,A body part attached to the bottom of the torso of a person or animal that is used to walk or run.
+583,아무,영어,anybody; anyone,A pronoun referring to an unspecified person.
+584,어쩌다,영어,accidentally; by chance,Incidentally to one's surprise.
+585,재료,영어,material; ingredient,Something that is used to produce an item.
+586,결코,영어,never,Never under any circumstances.
+587,옮기다,영어,move; take; shift,To make something move from one place to another.
+588,항상,영어,always; all the time,Invariably at any time.
+589,해,영어,sun,The star at the center of a solar system which is extremely hot and emits light.
+590,잃다,영어,lose,To not have something anymore because it has disappeared before one realized it.
+591,자유,영어,freedom,A state in which one can act as one thinks or at will without being bound or restricted by something.
+592,책임,영어,duty; responsibility; obligation,A task or duty that one is responsible for.
+593,바뀌다,영어,be changed; be replaced,For something that has existed to be replaced by something else.
+594,비슷하다,영어,similar,Two or more sizes, shapes, states, qualities, etc., being not the same, but being alike in many ways.
+595,심하다,영어,severe; harsh,The degree of something being excessive.
+596,경쟁,영어,competition,An act of vying with each other to win or lead in a field.
+597,사랑하다,영어,love,To be sexually attracted to someone and like him/her very much.
+598,아니,영어,no; nope; no way,An exclamation uttered when the speaker gives a negative answer to the question asked by his/her junior or someone of a similar age or position.
+599,여름,영어,summer,One of four seasons which is hot and comes between spring and fall.
+600,회,영어,hoe,A bound noun that serves as a unit for counting the number of times.
+601,구체적,영어,being concrete; being material,A state of being equipped with recognizable forms.
+602,실시하다,영어,execute; enforce; implement,To put a certain plan, law, system, etc., into practice.
+603,지구,영어,Earth,The third planet from the sun, on which humans live.
+604,번째,영어,beonjjae,A bound noun indicating the order or frequency of something.
+605,소비자,영어,consumer,A person who pays money to buy products, services, etc.
+606,싫다,영어,disgusting; distasteful; having no taste for,Being not to one's taste
+607,규모,영어,size; scale; scope,The size or scale of an object or phenomenon.
+608,기준,영어,standard; basis; criterion,The comparison items or measurement criteria used to tell or grade something.
+609,말,영어,speech; words,Human voice through which thoughts or feelings are expressed and conveyed.
+610,반드시,영어,without fail; certainly,Surely.
+611,셈,영어,calculation,The act of counting numbers.
+612,그러니까,영어,so,For that reason, or therefore.
+613,받아들이다,영어,receive; take; accept,To collect and receive money, goods, etc., from people.
+614,현장,영어,field; spot,The current location of an object.
+615,건설,영어,construction,The act of constructing new buildings or facilities.
+616,꺼내다,영어,take out; carry out,To take out an object that is inside.
+617,노동자,영어,worker; working people,A person who makes a living with money earned for doing some work.
+618,언제나,영어,always; all the time,Every time; invariably without changing with time.
+619,완전히,영어,completely; perfectly,In a manner of everything being provided without anything left out.
+620,자동차,영어,car; automobile,A vehicle which moves its wheels by the power of its engine in order to run on roads.
+621,전하다,영어,remain; be passed on,For something to continue or remain for a long period of time.
+622,존재하다,영어,exist,To be in reality.
+623,개월,영어,month,A bound noun that serves as a unit for counting the number of months.
+624,맞다,영어,be correct,For the answer to a problem to be correct.
+625,별로,영어,specially; particularly,Separately in particular; differently to such a degree.
+626,어린이,영어,children; kids,A young boy and girl from those aged four or five to elementary school students.
+627,정하다,영어,decide,To choose one among many.
+628,한마디,영어,one word; single word,Short and simple words.
+629,유지하다,영어,keep; maintain,To keep a certain state, situation, etc., as it is.
+630,이데올로기,영어,ideology,A set of ideas or beliefs that control and lead the behaviors or thinking of a group.
+631,늘어나다,영어,increase; swell,For the volume, amount, or degree of something to become gradually bigger or larger than before.
+632,닦다,영어,wipe; scrub,To rub to eliminate dirty things.
+633,만,영어,ten thousand,The cardinal number equal to 10 X 1,000.
+634,말씀,영어,words,(polite form) Words of another person.
+635,눈물,영어,tear,Clear liquid running from the eyes of a person or animal.
+636,빛,영어,light,Rays that emanate from objects such as the sun or fire or an electric lamp and illuminate other objects and their surroundings.
+637,아니,영어,no; nope; no way,An exclamation uttered when the speaker gives a negative answer to the question asked by his/her junior or someone of a similar age or position.
+638,피하다,영어,avoid,To make sure that unwanted or difficult things don't happen to oneself.
+639,거치다,영어,be stuck; be blocked,To be stuck or blocked by something.
+640,나아가다,영어,move forward,To go forward.
+641,야,영어,wow; yay,An exclamation uttered when the speaker is surprised or glad.
+642,지식,영어,knowledge,Something gained through study or personal experience.
+643,여전히,영어,just as it was before,The same as someone or something was before.
+644,주인,영어,owner,A person who has an object or item as his/her own.
+645,발견하다,영어,discover; find,To find out for the first time a thing that has not been discovered yet or was unknown to the world.
+646,선,영어,line,A border or line drawn horizontally or vertically.
+647,인류,영어,mankind; human race; humanity,All of the people in the world.
+648,특징,영어,distinct characteristic; peculiarity; feature,A trait of something which is noticeable because it is especially different.
+649,선수,영어,athlete; player; representative player,A person chosen as a representative in a sports game, or a person whose job is to play a sports game.
+650,형식,영어,form; formality,The form revealed outwardly.
+651,마련하다,영어,prepare; arrange,To prepare a situation or object.
+652,반,영어,half,One of two things split equally.
+653,발표하다,영어,publish; release; roll out,To reveal and announce a certain fact, result, work of art, etc., to the world.
+654,주제,영어,subject,The central issue in a conversation or research.
+655,걸치다,영어,hang,For the sun, moon, clouds, etc., to hang in a mountain or hill.
+656,관점,영어,perspective; viewpoint,A personal perspective or attitude towards an object or phenomenon.
+657,귀,영어,ear,The part of a human or animal's body that hears sounds, located on both sides of the head.
+658,기본,영어,basics; prerequisite; essential,A thing that should be done or be in place before doing something.
+659,미터,영어,meter,A bound noun used as a unit of length.
+660,사라지다,영어,disappear; vanish; go out of sight,For a certain phenomenon, the trace of something, etc., to be gone.
+661,어떠하다,영어,such,Being such in one's thoughts, feelings, state, situation, etc.
+662,감정,영어,emotion; feeling; sentiment,A feeling or mood one has toward a certain incident or person.
+663,기억,영어,memory,The act of not forgetting or recalling past figures, facts, knowledge or experiences.
+664,놈,영어,fellow; tough guy; punk; bastard,A person or group of people one fights with.
+665,인기,영어,popularity,Great interest or favor shown by many people to a certain person or thing.
+666,배,영어,abdomen; belly,The part between the chest and legs on the human or animal body.
+667,아파트,영어,apartment; apartment building,A residential building made for many households to live independently in one tall, large building.
+668,가끔,영어,sometimes,Once in a while.
+669,구성,영어,formation; organization,An act of gathering many necessary people or some parts or elements into one group; or the result made from such an act.
+670,술,영어,alcohol; liquor,A beverage that contains alcoholic ingredients so that one gets drunk if one drinks it, such as beer, soju, Korean distilled liquor, etc.
+671,실제로,영어,actually,In reality, neither fictitiously nor imaginarily; really.
+672,짧다,영어,short,The distance between the two ends of a space or object being close.
+673,고맙다,영어,thankful; grateful,Pleased and wanting to return a favor to someone.
+674,관리,영어,management,The act of taking charge of and handling something.
+675,그곳,영어,there,A pronoun used to indicate somewhere that is close to the listener.
+676,보다,영어,see; look at; notice,To perceive with eyes the existence or appearance of an object.
+677,비롯하다,영어,start; begin,For something to happen for the first time.
+678,과연,영어,indeed,Exactly as expected.
+679,달리다,영어,run,To come or go quickly by running.
+680,바쁘다,영어,busy; hectic,Having no time to do other things because one has many things to do or has little time.
+681,이전,영어,previous time; before,The time preceding the present time.
+682,인정하다,영어,recognize; concede,To consider or accept that something is certain.
+683,자,영어,ruler,A stationery item with scales printed on it, used to measure length.
+684,중앙,영어,middle,The very center of a certain place or object.
+685,나쁘다,영어,bad,Not good.
+686,불구하다,영어,be not hindered by; disregard,To not be bothered with something.
+687,시키다,영어,order,To make a person do something.
+688,게임,영어,game,A play for deciding the winner and loser according to a certain rule.
+689,국제,영어,being international; being global,A state in which several countries are interrelated or do something together.
+690,그룹,영어,group; party,A meeting of people who do something together.
+691,인생,영어,life,The process of a person living in this world.
+692,전통,영어,tradition; heritage,A way of life including thoughts, customs, forms of behavior, etc., that have been uniquely formed and passed on from previous generations in a group or community.
+693,기르다,영어,breed; grow; cultivate,To give food or nutrients and protect animals and plants to make them grow.
+694,잔,영어,cup,A small container that is used for drinking water, tea, etc.
+695,조사하다,영어,investigate,To examine or look for the details of an affair or thing to understand them.
+696,커다랗다,영어,huge; enormous,Very big.
+697,있다,영어,be; stay,For a person or animal to remain in a certain place without leaving or getting out of it.
+698,시인,영어,poet,A person who writes poems professionally.
+699,언제,영어,when; what time,Some time that one does not know.
+700,외,영어,oe,An expression used to indicate that something is beyond a certain range or limit.
+701,평가,영어,estimation,An act of guessing and deciding the price, value, level, etc. of an object, or such a price, value, or level.
+702,내려오다,영어,step down,To come from a high place to a lower place, or from up to down.
+703,위치,영어,location; situation,The state of having taken up space in a place; such space.
+704,줄이다,영어,turn down; reduce; shorten,To make the length, area, volume, etc., of an object smaller than original.
+705,가격,영어,price,A value amount for something that is for sale.
+706,달라지다,영어,become different,To become different from before.
+707,비다,영어,be empty; be vacant,For a space to contain nothing or no one.
+708,삼국,영어,three countries,The three countries.
+709,손님,영어,visitor; caller; guest,(honorific) A person who comes to visit someone.
+710,원하다,영어,want; wish; hope,To hope for something or desire to do something.
+711,확인하다,영어,check; affirm; confirm; verify,To find out if something is true or admit that it is true.
+712,모임,영어,meeting; gathering,A meeting of many people to do something.
+713,수,영어,number; figure,A set of numerals used for counting the number of countable things.
+714,웃음,영어,smile; laughter,The act of laughing or smiling, the way one laughs or smiles, or the sound that one makes when he/she laughs.
+715,기계,영어,machine,A tool or piece of equipment used for doing something.
+716,모양,영어,shape,The outer appearance or aspect.
+717,물질,영어,material; substance,A substance that exists objectively, which is an idea opposite to the human mind.
+718,아나운서,영어,announcer,A person who professionally broadcasts news, sports game, ceremonies, etc.
+719,뉴스,영어,news,A broadcast program that delivers new reports.
+720,살아가다,영어,live,To continue to live.
+721,펴다,영어,open; spread out,To bend back and spread a folded or rolled object.
+722,배,영어,abdomen; belly,The part between the chest and legs on the human or animal body.
+723,수업,영어,class; lesson; course,A teacher teaching a student certain studies or skills.
+724,겨울,영어,winter,One of four seasons which is the coldest, and comes between fall and spring.
+725,종교,영어,religion,A cultural system that believes in and obeys a god or supernatural being, serving as a guidance in life or philosophy.
+726,층,영어,layer,One of several layers of different substances or objects stacked horizontally, or the state of things being stacked that way.
+727,자연스럽다,영어,natural; unaffected,Being not affected, and thus not strange.
+728,장,영어,piece; sheet,A bound noun that serves as a unit for counting thin, wide objects such as a sheet of paper or glass.
+729,식사,영어,meal,The act of eating food daily at a certain time such as breakfast, lunch and dinner, or such food.
+730,안다,영어,embrace; hug; hold someone in one's arms,To open one's arms and pull someone or something toward one's bosom or make him/her or it be in one's bosom.
+731,이해,영어,understanding; comprehension,The state of knowing what something is; the process of accepting something as something else.
+732,잊다,영어,forget; be forgetful of,To not remember or fail to remember something that one knew once.
+733,제시하다,영어,present,To show one's plans to do something in speech or writing.
+734,반,영어,half,One of two things split equally.
+735,불과하다,영어,only; just; mere,Being no more than a certain amount.
+736,혹은,영어,or; if not,If not; or if it is not.
+737,엄청나다,영어,enormous; colossal; stupendous,Unusually large in size or degree.
+738,편,영어,direction,A bound noun used to indicate a direction something advances into or is headed.
+739,텔레비전,영어,TV; television,A machine that delivers the images and sound that were sent in waves by a broadcasting station.
+740,파악하다,영어,understand; identify; figure out,To get to know something well, as one succeeds in understanding the content or situation of a certain incident or subject.
+741,편,영어,direction,A bound noun used to indicate a direction something advances into or is headed.
+742,실천,영어,practice; action,The act of putting one's theory, plan, thought, etc. into action.
+743,노력하다,영어,make effort; endeavor; work hard,To make an effort and work hard to achieve something.
+744,보호,영어,protection,The act of protecting and caring for something or someone so that it or he/she is not put in a dangerous or difficult situation.
+745,씻다,영어,wash,To clean something by removing dirt or grime.
+746,늦다,영어,be late,To be later than the set time.
+747,이웃,영어,neighbor,The state of being side by side with or close to a region or country.
+748,편지,영어,letter,The act of saying what one has to say in writing and sending it to another person.
+749,공동,영어,collaboration,People or groups of more than two doing something together, or being involved in something with equal rights.
+750,까닭,영어,reason; cause,A reason for or situation in which a certain thing happened or one did a certain thing.
+751,방안,영어,way; measure,A method or plan to handle a matter.
+752,센티미터,영어,centimeter,A length unit.
+753,팔,영어,arm,The body part from the shoulder to the wrist.
+754,분명하다,영어,distinct,A shape or sound being clear, not vague.
+755,분석,영어,analysis,The process of observing a phenomenon or thing by dividing it into several elements or properties in order to understand it more deeply.
+756,지나가다,영어,pass; go by,For a certain period to end as time passes by.
+757,차,영어,tea,A beverage made by infusing or brewing leaves, roots, fruits, etc., of a plant with a good smell or flavor.
+758,상품,영어,product; goods,Goods to sell and buy.
+759,설명,영어,explanation; account,The act of describing something to another person in a way that he/she could understand easily, or such words.
+760,훌륭하다,영어,great; excellent; outstanding,Extremely good and excellent enough to be praised.
+761,관계자,영어,interested party,A person who is particularly concerned with some matter, who has a relationship to some matter or issue.
+762,새로,영어,newly,Newly, not existing before.
+763,세,영어,three,Amounting to three in number.
+764,이어지다,영어,be connected,To be linked without being cut.
+765,티브이,영어,TV; television,A machine that delivers the images and sound that were sent in waves by a broadcasting station.
+766,봄,영어,spring,The season between winter and summer.
+767,종류,영어,kind; sort,One of many classes into which something is divided according to certain criteria.
+768,낮다,영어,low,The length from top to bottom being short.
+769,어깨,영어,shoulder,The body part between the lower end of the neck and the upper end of the arm.
+770,부부,영어,couple; married couple,Husband and wife.
+771,오래,영어,long,For a long time.
+772,요구,영어,request; demand,An act of asking for something that one needs or is supposed to receive.
+773,키우다,영어,grow; raise,To take care of an animal or plant so that it grows.
+774,눕다,영어,lie down; lay oneself down; lie,For a person or animal to lie with the back or flank horizontally to touch a certain place.
+775,발전하다,영어,develop,To advance to a better state or higher step.
+776,여행,영어,travel; trip,The act of going away from home, and visiting other places or foreign countries and doing sightseeing.
+777,죽음,영어,death,The act of dying, or the state of being dead.
+778,고통,영어,pain,Physical or mental suffering or agony.
+779,공,영어,ball,A round object about the size just right for holding, passing or kicking, used for play or sports games.
+780,어울리다,영어,harmonize,For several things to be in harmony and unite as one.
+781,오월,영어,May,The fifth month in a year.
+782,쉬다,영어,rest; repose; take a rest,To relax oneself to relieve one's fatigue.
+783,알리다,영어,inform; tell; notify,To let someone realize or know what he/she did not know or forgot.
+784,차다,영어,be full,For a space to be full of things with no room left for more.
+785,과,영어,department; section,A division unit in an organization which is divided by the characteristics of duties in a company.
+786,멀리,영어,far,Quite distantly in time or space.
+787,빼다,영어,take out; draw; pull out,To take out something that is inside or lodged in something else.
+788,예정,영어,plan; expectation,The act of deciding or expecting what to do in the future.
+789,오빠,영어,elder brother,A word used only by a girl to refer to or address her male siblings or cousins older than herself.
+790,즐겁다,영어,joyful; pleasant,Pleased and satisfied with something.
+791,한계,영어,limit; boundary,The range or boundary within which something really happens or affects something else.
+792,흔히,영어,often; commonly; usually,More often than usual.
+793,바탕,영어,foundation; basis,A basis that comprises a certain thing or phenomenon.
+794,사월,영어,April,The fourth month of a year, out of twelve months.
+795,싸우다,영어,fight; quarrel; dispute,To try to win by argument or force.
+796,예쁘다,영어,pretty; beautiful; comely,The appearance of someone or something looking good and beautiful.
+797,의지,영어,leaning; support,The act of leaning against something; an object against which one leans.
+798,전문,영어,specializing; specialty,The act of studying or taking on a field only in which one has a lot of knowledge and experience, or such a field.
+799,정확하다,영어,accurate,Right and certain
+800,초기,영어,beginning; start,The beginning of a certain period.
+801,나중,영어,next time; later,The moment after a certain time passes.
+802,맛있다,영어,tasty; delicious,Tasting good.
+803,며칠,영어,date,A certain date of the month.
+804,찾아오다,영어,come visiting,To go to a place to meet someone or do something.
+805,미,영어,beauty,Beauty.
+806,사용,영어,use; usage,An act of using something for a certain job or function.
+807,시선,영어,eyes; gaze,The eyes looking at something in a certain direction.
+808,아무런,영어,any; no,Not at all.
+809,언론,영어,press; journalism,The act of publicizing a certain fact or opinion by the media such as newspaper, radio, television, etc.
+810,투자,영어,investment,An act of spending money, time, or energy in a certain project or business, to gain a profit.
+811,지원,영어,support; aid,An act of helping by providing goods or assistance.
+812,결정하다,영어,decide,To clearly make a decision about what and how to do it.
+813,경영,영어,management; business administration,Management or operation of a company or business.
+814,목표,영어,target; goal,A certain target that one needs to attain in order to achieve a purpose.
+815,성장,영어,growth,The state of a person or animal getting older and becoming bigger gradually.
+816,숲,영어,forest,A place that is full of trees and grasses.
+817,없어지다,영어,be gone; disappear,For a certain thing, symptom, etc., to not appear anymore.
+818,작년,영어,last year,The previous year of the current year.
+819,내려가다,영어,go down; step down; descend,To move from up to down.
+820,미치다,영어,go mad; lose one's mind,To speak and act in a way that is different from others due to a mental disorder.
+821,새벽,영어,dawn,The time around sunrise.
+822,쓰레기,영어,rubbish; trash; garbage,Dust swept away, or something that has been thrown away or to discarded.
+823,얼른,영어,quickly; immediately; promptly,Right away without lingering over something.
+824,임금,영어,wage; pay,A sum of money that one receives for doing work.
+825,피해,영어,harm; damage; loss,The act of suffering physical harm, or the loss of property, reputation, etc., or such a harm or loss.
+826,한,영어,one,One.
+827,무섭다,영어,fearful; scared of,Feeling scared of something, or feeling afraid something might happen.
+828,직장,영어,workplace,A place where someone works for money.
+829,참다,영어,endure; withstand; fight back; be patient,To suppress and endure physiological phenomena such as laughter, crying, pain, coughing, etc.
+830,크기,영어,size,A degree of how big a volume, area, length, height, etc., of an object is.
+831,고기,영어,meat,The flesh of animals that is eaten as food.
+832,남기다,영어,leave,To leave part of something without using it up.
+833,서양,영어,Occident,Europe and America.
+834,주요,영어,being key,The quality of being main and important.
+835,가져오다,영어,bring,To bring an object from one place to another place.
+836,냄새,영어,smell; scent; odor,The trait of something the nose can sense.
+837,부드럽다,영어,soft; smooth,Silky, not rough or stiff, to the touch.
+838,여기다,영어,regard; think; count,To consider a subject as something in one's mind.
+839,이,영어,tooth,A part in the human or animal mouth that is used to bite something or chew food.
+840,공연,영어,performance; show,Performing music, dance or a play in front of many people.
+841,남녀,영어,man and woman,A man and a woman.
+842,내놓다,영어,take out,To take something out and place it outside.
+843,속도,영어,speed,The speed of either an object's movement or the process of things.
+844,심각하다,영어,serious; grave,A state or degree being very severe, urgent, or important.
+845,준비,영어,preparation,The act of having something in place with advance preparations.
+846,계속되다,영어,continue,To go on without interruption.
+847,구월,영어,September,The ninth month of a year, out of twelve months.
+848,맑다,영어,clean; clear,Clean and free of something dirty and filthy.
+849,소년,영어,boy,A young boy that has not become an adult yet.
+850,소식,영어,news,Words or a piece of writing that describes the state or circumstances of a person who is far away or not frequently available.
+851,유월,영어,June,The sixth month of a year, out of twelve months.
+852,작용,영어,working; function; action,The process of causing or affecting a certain phenomenon or act.
+853,허리,영어,waist,The part between the ribs and hip bones in the human or animal body.
+854,골,영어,goal,An area designated for scoring in games such as soccer, basketball, hockey, handball, etc.
+855,공업,영어,manufacturing industry,An industry that makes goods or materials by manufacturing raw material by hand or machine.
+856,그중,영어,among the rest; among them,Being among many things within a certain scope.
+857,노인,영어,old person; the aged; senior citizen,A person who is old.
+858,벌다,영어,make; earn,To obtain or save money by doing some work.
+859,살리다,영어,keep someone alive; bring someone to life; save someone's life,To make someone or something maintain his/her or its life.
+860,새,영어,bird,A two-legged flying animal with feathers and wings on its body.
+861,영어,영어,English,The most widely used language in the world, spoken in the UK and the US.
+862,출신,영어,social status,The social status level one's family belongs to at the time of one's birth.
+863,결정,영어,decision,Deciding a goal and the method of reaching it clearly or the decided content.
+864,경향,영어,tendency; inclination,An action, thought, or phenomenon that leans toward one direction.
+865,기록,영어,record; documentation,The act of writing or videotaping facts or thoughts to leave them to posterity; or such a writing or video.
+866,나름,영어,nareum,A bound noun used to indicate that something depends on the extent or shape of something else or how something else is done.
+867,대답하다,영어,answer; reply,To reply to a call.
+868,반면,영어,opposite; contrast; other side,A state in which the meaning of following words are opposite to that of preceding words.
+869,썰다,영어,slice; cut,To cut something into several pieces by pressing a knife, saw, etc., downwards and moving the blade forwards and backwards.
+870,움직임,영어,movement; motion,A change in a posture, position, etc.
+871,이미지,영어,image,An impression of or feeling about something that crosses one's mind.
+872,터지다,영어,be broken down; be pierced,For an object surrounded and blocked by something to be broken down or pierced.
+873,특성,영어,characteristic; trait; feature,A characteristic of certain things only, which is noticeably different from others.
+874,교장,영어,principal,A representative position in elementary school, middle school, or high school, responsible for the education and administration at the school, or the person in such a position.
+875,벗다,영어,take off,To have an object, clothes, etc., taken off one's body.
+876,업무,영어,work; task; business,The work assigned in a workplace, etc.
+877,입시,영어,entrance examination,An examination that one has to take to enter a college, etc.
+878,준비하다,영어,prepare,To have something in place with advance preparations.
+879,청소년,영어,teenager,A person in his/her teens who is not yet an adult.
+880,응,영어,yes,An exclamation uttered when the speaker answers someone's call.
+881,이기다,영어,win; beat; defeat,To beat and perform better than one's opponent in a bet, match, fight, etc.
+882,찾아보다,영어,visit,To go to the place where a person is located and meet him/her.
+883,취하다,영어,be drunk; be intoxicated,To be unable to think or move properly, due to the effect of alcoholic drinks, medicine, etc.
+884,다루다,영어,do,To do something as one's task.
+885,달,영어,moon,A bright, round celestial body that apprears in the sky at night.
+886,사장,영어,president; chief executive,A person who represents a company and is responsible for corporate affairs.
+887,삼월,영어,March,The third month of a year, out of twelve months.
+888,그렇지만,영어,but; however; nevertheless,A word used to say something opposed to the preceding statement; although it is true.
+889,선배,영어,senior; veteran,A person who is more experienced and holds a higher position than oneself because he/she started his/her career in the same field earlier.
+890,업체,영어,company; business entity; enterprise,An organization that does a certain business for gaining profits.
+891,키,영어,height,The length of a person or animal in an upright position that is measured from the feet to the head.
+892,구하다,영어,look for; obtain,To look for something needed, or obtain it.
+893,국회,영어,National Assembly; Congress; Parliament,A government body composed of lawmakers representing the people, which is in charge of making laws and supervising the Executive and Judiciary branches.
+894,그러므로,영어,therefore; so; hence,An adverb used when the preceding statement is the reason for, grounds for, or condition of the following statement.
+895,걱정,영어,worry; concern; care,The state of feeling afraid and uneasy, in fear of the possible occurrence of something bad.
+896,결혼하다,영어,marry,For a man and a woman to become a legally married couple.
+897,만약,영어,supposing,An unexpected case or situation that one thinks might happen.
+898,바르다,영어,apply; spread,To apply glue to paper, etc., and attach that to the surface of another object.
+899,세월,영어,time,The passage of time.
+900,숨,영어,breath,The act of a human or animal breathing air in and out through the nose or mouth.
+901,행사,영어,event; occasion; ceremony,An act of performing a certain task with a purpose or plan according to a procedure; or such a task.
+902,깨닫다,영어,realize; perceive; understand,To realize the essence of an object, principle, truth, etc., after thinking deeply.
+903,누나,영어,elder sister,A word used by a male to refer to or address his female siblings or cousins older than himself.
+904,신,영어,shoes; footwear,An object that one wears in order to protect one's feet when standing or walking.
+905,왕,영어,king; male monarch,A king who is a ruler of a country where the crown is passed down from one to another member of the royal family.
+906,점점,영어,gradually,Little by little as times goes by.
+907,질문,영어,question,An act of asking something one does not know or wants to know.
+908,특별,영어,being special,The state of something being different from what is normal, with a noticeable gap.
+909,판단,영어,judgment; decision,The state of fixing a thought on something, according to a certain logic or standard.
+910,해결하다,영어,solve; settle; resolve; fix,To handle and finish an event, problem, or task, etc., successfully.
+911,거리,영어,street; road; avenue,A road, street, etc., for pedestrians or cars.
+912,계속하다,영어,continue,To keep doing something without interruption.
+913,그치다,영어,stop,For a continuing matter, movement, phenomenon, etc., to cease.
+914,근처,영어,vicinity; neighborhood,A spot close to a certain place, object, or a person.
+915,너무나,영어,too; excessively,(emphasizing form) Very.
+916,높이다,영어,make higher,To make the length from bottom to top be longer.
+917,부정,영어,unlawfulness; illegitimacy,Irregularity; an irregular act.
+918,사정,영어,situation; circumstances,The situation or reason for an incident.
+919,도대체,영어,come to the point,Only touching on key points, leaving out unnecessary things.
+920,막,영어,just,Right now.
+921,부모님,영어,parents,(polite form) Someone's parents, including one's own.
+922,수출,영어,export,The act of selling a domestic product or technology to a foreign country.
+923,계시다,영어,live,(honorific) For one's senior or superior to live somewhere.
+924,자르다,영어,cut; sever; chop,To cut off a part by cutting or breaking something into two or more pieces.
+925,데리다,영어,bring with,To make a person or animal stay together.
+926,마리,영어,mari,A bound noun that serves as a unit for counting the number of animals, fish, bugs, etc.
+927,무척,영어,very; extremely,Very, extremely, exceedingly so that it is not comparable to any other.
+928,비용,영어,cost; expense,A sum of money spent in doing a certain work.
+929,비행기,영어,plane; airplane,A flying vehicle that carries passengers and cargo.
+930,옳다,영어,right; righteous,Being in accord with a rule and just.
+931,원래,영어,origin,The beginning of something.
+932,처리,영어,handling,An act of settling and completing a task, job, or incident through a certain procedure.
+933,꼴,영어,shape; look; sight,The shape of an object.
+934,놀이,영어,play; entertainment,The act of enjoying something or playing for fun.
+935,뿌리,영어,root,The part of a plant that grows underground to take in water and nutrients and that supports the stem.
+936,수입,영어,earning; income,The act of obtaining money or goods, etc., for one's work; or the money or goods thus obtained.
+937,초,영어,beginning,A bound noun used to indicate the early or initial stage of a certain period of time.
+938,그리하여,영어,that's how,In that way.
+939,낮,영어,day; daytime,The time from sunrise to sunset.
+940,일찍,영어,early,Before the specified time.
+941,직원,영어,employee,A person who works at a certain workplace.
+942,찍다,영어,stamp,To make an impression by pressing on a flat surface.
+943,가볍다,영어,light,Weighing little.
+944,내부,영어,inside; interior,The inner space of an object.
+945,다소,영어,more or less,A compound noun meaning more or less in degree or quantity.
+946,상대,영어,facing each other,An act of facing each other, or the person one does this with.
+947,오전,영어,morning,The time from morning to noon.
+948,피부,영어,skin,The outer surface of the flesh that covers the human or animal body.
+949,가게,영어,shop; store,A place where products are displayed and sold on a small scale.
+950,가득,영어,full,In a quantity or amount that reaches full capacity.
+951,그저,영어,just; same,Lasting up until now without a change.
+952,도,영어,degree,A bound noun that serves as a unit for measuring  temperature.
+953,벽,영어,wall,Any of the parts that enclose a room or house.
+954,장군,영어,general; admiral,A high-ranking person in the military that leads and commands his/her troops.
+955,무역,영어,trade; commerce,The business of buying and selling goods among regions.
+956,부담,영어,burden; obligation,The act of undertaking a job or bearing a responsibility or duty.
+957,약속,영어,promise; appointment; pledge,An act of agreeing with someone to do a certain thing, or details of such an agreement.
+958,인사,영어,greetings,That act of showing courtesy when meeting or saying goodbye to someone, or such words or actions.
+959,줄,영어,rope; string,A thin, long item that is used to tie or knot things together.
+960,쳐다보다,영어,look up,To look upwards from below.
+961,충분히,영어,enough; sufficiently; fully,In an ample quantity, without shortage.
+962,신체,영어,body,The body of a person.
+963,에너지,영어,energy; power,The strength necessary for doing physical and mental activities.
+964,위원,영어,member,A person elected or appointed to be responsible for doing something for a special purpose in a group.
+965,정리하다,영어,organize,To gather or clear away dispersed or unorganized items.
+966,집안,영어,house; home,A community consisting of family members who live together, or close relatives.
+967,배경,영어,background,The view at the back.
+968,죽이다,영어,kill,To cause a living creature to lose its life.
+969,단순하다,영어,simple,Simple, not complex.
+970,법칙,영어,rule; law; regulation,Norms that one is supposed to abide by at all times.
+971,빠지다,영어,sink down into; be thrown into,To fall into water, a pit, etc.
+972,소금,영어,salt,A white powder that tastes saline.
+973,오염,영어,pollution; contamination,The state of being polluted.
+974,자전거,영어,bicycle,A vehicle that is moved by a person riding on it, who rolls its wheels by pushing pedals with his/her feet.
+975,참여하다,영어,participate; get involved,To join a group to work together.
+976,탓,영어,reason; cause,The cause or reason for the occurrence of a negative phenomenon.
+977,젊은이,영어,young man; young woman,A person of a young age.
+978,후보,영어,candidate; candidacy,An act of qualifying oneself to run in an election for a certain position or status; or such a person.
+979,거스름돈,영어,change,The remaining money given or received after a price is paid.
+980,자전거,영어,bicycle,A vehicle that is moved by a person riding on it, who rolls its wheels by pushing pedals with his/her feet.
+981,비교하다,영어,compare,To put more than two things together and observe their similarities and differences.
+982,시월,영어,October,The tenth month among the twelve months of a year.
+983,커지다,영어,get bigger; grow; increase,To grow big.
+984,한쪽,영어,one side; one part,One part of something or one direction.
+985,검사,영어,examination; inspection,Reviewing a certain incident or object to decide whether it is right or wrong, or good or bad.
+986,결론,영어,conclusion,The part that finishes a speech or writing.
+987,맡기다,영어,assign; entrust,To have someone take responsibility in handling a certain work.
+988,박물관,영어,museum,A facility in which relics or pieces of art are collected, stored, exhibited so that people can see or study.
+989,전문가,영어,expert; specialist,A person with a lot of knowledge, experience and skills in a field.
+990,단지,영어,housing complex; industrial complex,An area where the same-purpose buildings or facilities are built close to one another.
+991,싸움,영어,fight; struggle,A dispute where the opposing parties try to win by argument or force.
+992,자꾸,영어,frequently; repeatedly; again and again,Several times.
+993,차리다,영어,set the table,To place prepared food, etc., on a table.
+994,해외,영어,foreign country; overseas,A country other than one's own.
+995,그리,영어,that way; there,To that place or in that direction.
+996,문화재,영어,cultural asset; cultural property,Relics or remains that have high cultural value, and thus are or should be protected by law.
+997,미소,영어,smile,A facial expression with the lips curved upwards and without sound.
+998,보통,영어,being ordinary; being average,The quality of being common and ordinary as opposed to extraordinary, or being average as opposed to excellent or sub-par.
+999,식당,영어,cafeteria; restaurant,A place for eating meals within a building.
+1000,의미하다,영어,mean; signify; imply,For a word, sentence, sign, etc., to mean something.
