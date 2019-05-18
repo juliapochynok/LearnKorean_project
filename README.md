@@ -17,9 +17,12 @@ To implement the program, import of some Python modules were needed. Specificall
 And also a microframework flask is used to create a working interface.
 
 ### Run Dependencies/Usage
+You can use this program here on PythinAnywhere:
+http://learningkoreanwords.pythonanywhere.com/
 
+Or you can download folder "final_learn_korean" from this repository and run it on your own computer.
 
-### Usage Example (images will be added soon)
+### Usage Example
 Step 1. 
 
 User needs to enter his/her name without white spaces.
