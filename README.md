@@ -71,6 +71,9 @@ If client wants to log Out of the ptrongram, he/she should press the “Log Out�
 Unittests to test the performance of the developed implementation of abstract types is located in the folder “test” in the repository. 
 IMPORTANT: Because User and WordController classes work with files and modify them, most of the developed unittests for these classes will work correctly only one (first) time. So, after the first use, the files that are used are already modified and, accordingly, if the repetitive passage of unittests is performed, the results will already be different.
 
+### Documentation
+Documentation is located in the repository's documentation folder. It is in html folder, in HTML files. For example, index.html
+
 ### License
 Apache License
 
